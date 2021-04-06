@@ -1,5 +1,5 @@
 # DPRK_national_identity
-Survey data and replication materials for "North Korean Patriotism: Assessing the Successes and Failures of a Nation". 
+Survey data and replication materials for "North Korean Patriotism: Assessing the Successes and Failures of a Nation", a paper by Steven Denney (University of Toronto) and Christopher Green (Leiden University).
 
 Source and citation:
 > Green, C. & Denney, S. (2021). North Korean Patriotism: Assessing the Successes and Failures of a Nation. _Korea Journal_ 61(1): 154–185. doi: 10.25024/kj.2021.61.1.154
