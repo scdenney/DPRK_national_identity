@@ -1,0 +1,703 @@
+"","respid","birth.year","age","years.nk","edu.nk","class.nk","gender","origins","female","years.sk","pride.socialism","pride.politicalinfluence","pride.economics","pride.science","pride.sports","pride.arts","pride.baekdublood","pride.military","pride.revolutionaryhist","pride.groups","pride.juche","pride.socialsecurity","year.survey","weights"
+"1",1,2000,19,0,"Secondary School","Middle-low",1,"North Hamgyong",1,12,2,4,3,3,3,4,2,3,2,2,2,3,2016,1.437181996
+"2",2,1999,20,3,"<=Elementary","Middle-low",0,"Pyongyang",0,9,2,2,2,3,2,3,2,3,2,2,2,2,2016,1.814814815
+"3",3,1999,20,4,"<=Elementary","Middle-low",1,"South Hwanghae",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2016,2.095890411
+"4",4,1998,21,5,"<=Elementary","Middle",1,"North Hamgyong",1,12,2,2,2,2,1,1,2,3,2,2,2,2,2016,1.397260274
+"5",5,1997,22,7,"<=Elementary","Middle-high",1,"North Hamgyong",1,7,3,3,3,3,3,3,3,3,3,3,3,3,2016,1.397260274
+"6",6,1995,24,7,"<=Elementary","Low",0,"Pyongyang",0,9,2,2,2,NA,3,2,3,1,1,1,1,1,2016,1.814814815
+"7",7,1994,25,9,"<=Elementary","Middle",0,"North Hwanghae",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"8",8,2001,18,10,"<=Elementary","Middle",1,"North Hamgyong",1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,1.397260274
+"9",9,1999,20,10,"<=Elementary","High",1,"North Hamgyong",1,10,3,3,3,2,3,4,2,2,2,2,2,3,2016,1.397260274
+"10",10,1988,31,10,"<=Elementary","Low",1,"South Hamgyong",1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,1.397260274
+"11",11,1999,20,11,"<=Elementary","High",0,"Ryanggang",0,8,3,3,3,3,3,3,3,3,3,3,3,3,2016,3
+"12",12,1999,20,11,"<=Elementary","High",0,"Unspecified",0,8,3,2,2,4,3,3,3,4,4,2,3,2,2016,NA
+"13",13,1997,22,12,"<=Elementary","High",1,"North Pyongan",1,10,4,NA,2,3,4,4,4,NA,NA,2,4,2,2016,0.698630137
+"14",14,1992,27,12,"<=Elementary","Low",1,"North Hamgyong",1,14,3,3,4,3,4,4,3,4,2,3,1,4,2016,1.397260274
+"15",15,1991,28,12,"<=Elementary","High",1,"North Hamgyong",1,11,NA,NA,4,4,4,NA,4,NA,NA,NA,NA,NA,2016,1.397260274
+"16",16,1990,29,13,"<=Elementary","Low",1,"North Hamgyong",1,3,2,2,2,2,3,3,3,3,3,2,2,2,2016,1.397260274
+"17",17,1990,29,13,"Secondary School","High",1,"North Hamgyong",1,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,1.437181996
+"18",18,2002,17,14,"Secondary School","High",1,"Unspecified",1,3,4,2,2,2,2,2,2,4,2,2,2,2,2016,NA
+"19",19,1998,21,14,"Secondary School","Middle-high",0,"North Hamgyong",0,4,3,3,3,2,4,3,4,NA,NA,NA,NA,2,2016,3
+"20",20,1997,22,14,"Secondary School","High",1,"North Hamgyong",1,8,3,3,3,3,3,4,3,3,3,3,3,3,2016,1.437181996
+"21",21,2002,17,15,"Secondary School","Middle",0,"South Pyongan",0,2,3,2,2,4,4,3,2,4,2,2,2,2,2016,1.866666667
+"22",22,1992,27,15,"Secondary School","Middle",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"23",23,1991,28,15,"Secondary School","Low",1,"Unspecified",1,2,2,2,1,2,4,4,2,2,2,2,2,2,2016,NA
+"24",24,1989,30,15,"<=Elementary","Middle-low",0,"Unspecified",0,13,2,2,2,2,4,4,2,2,2,4,2,2,2016,NA
+"25",25,1986,33,15,"Secondary School","High",1,"North Hamgyong",1,1,2,3,2,3,4,4,2,3,2,2,2,2,2016,1.437181996
+"26",26,1993,26,16,"<=Elementary","Middle",1,"Unspecified",1,1,4,4,4,4,NA,NA,NA,NA,NA,4,4,4,2016,NA
+"27",27,1992,27,16,"<=Elementary","Middle-low",1,"North Hamgyong",1,3,3,3,3,4,1,3,1,1,1,4,3,1,2016,1.397260274
+"28",28,1992,27,16,"<=Elementary","High",1,"North Hamgyong",1,10,2,2,2,4,4,3,1,1,1,1,1,2,2016,1.397260274
+"29",29,1996,23,17,"Secondary School","High",1,"North Hamgyong",1,4,3,2,3,2,4,4,3,2,2,2,1,2,2016,1.437181996
+"30",30,1993,26,17,"<=Elementary","Middle-low",0,"South Hwanghae",0,9,2,2,2,2,4,2,2,2,2,2,2,2,2016,3
+"31",31,1992,27,17,"Secondary School","Low",1,"South Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"32",32,1991,28,17,"Secondary School","High",1,"North Hamgyong",1,4,3,3,3,3,3,4,3,3,3,3,3,3,2016,1.437181996
+"33",33,1991,28,17,"<=Elementary","High",0,"Unspecified",0,11,2,2,2,2,2,4,2,2,2,2,2,2,2016,NA
+"34",34,1990,29,17,"Secondary School","Middle",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,3,2,2,2,2,2016,1.437181996
+"35",35,1990,29,17,"Secondary School","Middle",1,"North Hamgyong",1,9,2,2,2,2,2,3,2,2,2,2,2,2,2016,1.437181996
+"36",36,1989,30,17,"<=Elementary","Low",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,3,2,2,3,2016,1.397260274
+"37",37,1984,35,17,"Secondary School","Low",0,"North Hamgyong",0,15,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"38",38,1983,36,17,"Secondary School","Middle-low",1,"Ryanggang",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"39",39,1997,22,18,"Secondary School","Middle",1,"Ryanggang",1,4,2,2,2,3,3,3,2,2,2,2,2,2,2016,3
+"40",40,1982,37,18,"Secondary School","Low",1,"North Hamgyong",1,11,2,2,2,3,3,3,3,3,2,2,2,3,2016,1.437181996
+"41",41,1981,38,18,"Secondary School","High",0,"North Hamgyong",0,10,3,3,3,3,4,4,3,3,3,3,3,3,2016,3
+"42",42,1996,23,19,"Secondary School","Middle",1,"North Pyongan",1,3,3,2,2,2,4,4,3,3,3,3,1,2,2016,0.718590998
+"43",43,1994,25,19,"Secondary School","High",1,"Ryanggang",1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,3
+"44",44,1994,25,19,"Secondary School","High",1,"Ryanggang",1,5,3,3,3,4,NA,NA,2,NA,2,3,3,3,2016,3
+"45",45,1992,27,19,"<=Elementary","High",1,"North Hamgyong",1,4,2,2,2,2,3,2,2,3,2,2,2,2,2016,1.397260274
+"46",46,1991,28,19,"Secondary School","Middle",1,"North Hamgyong",1,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,1.437181996
+"47",47,1990,29,19,"Secondary School","Middle-low",1,"Ryanggang",1,6,1,1,1,1,1,1,1,1,1,1,1,1,2016,3
+"48",48,1988,31,19,"Secondary School","Low",1,"North Hamgyong",1,9,2,2,2,2,4,NA,2,2,2,2,2,2,2016,1.437181996
+"49",49,1982,37,19,"Secondary School","Low",1,"North Hamgyong",1,1,2,2,2,3,4,3,2,4,4,2,3,2,2016,1.437181996
+"50",50,1982,37,19,"Secondary School","Low",1,"North Hamgyong",1,3,3,2,2,2,2,3,2,4,2,2,2,2,2016,1.437181996
+"51",51,1959,60,19,"University+","Middle-low",0,"North Hamgyong",0,41,3,3,3,3,3,3,2,2,2,3,2,2,2016,3
+"52",52,1997,22,20,"Secondary School","Middle-low",1,"Ryanggang",1,1,3,3,3,2,2,2,2,2,2,2,2,2,2016,3
+"53",53,1995,24,20,"Secondary School","High",1,"Ryanggang",1,1,3,4,2,4,4,4,4,NA,3,4,4,2,2016,3
+"54",54,1993,26,20,"Secondary School","Middle",1,"North Hamgyong",1,6,3,3,3,3,3,3,3,3,3,3,3,3,2016,1.437181996
+"55",55,1991,28,20,"Secondary School","Middle",1,"Ryanggang",1,1,2,2,2,2,4,3,2,NA,2,2,2,2,2016,3
+"56",56,1991,28,20,"Secondary School","Middle-low",0,"North Hamgyong",0,7,3,3,NA,4,4,4,3,4,3,4,3,4,2016,3
+"57",57,1988,31,20,"Secondary School","Middle-low",1,"Ryanggang",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"58",58,1983,36,20,"Technical Training","High",1,"North Hamgyong",1,12,2,2,2,2,2,3,2,2,2,3,2,2,2016,1.333748443
+"59",59,1982,37,20,NA,"Middle-low",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"60",60,1982,37,20,"Secondary School","Low",1,"North Hamgyong",1,10,2,2,2,2,2,4,2,3,2,2,2,2,2016,1.437181996
+"61",61,1995,24,21,"Technical Training","High",1,"North Hamgyong",1,2,2,2,2,3,2,3,2,4,2,4,2,3,2016,1.333748443
+"62",62,1993,26,21,"Secondary School","Middle-high",0,"North Hamgyong",0,5,2,2,2,3,3,2,2,2,2,3,2,2,2016,3
+"63",63,1991,28,21,"Secondary School","Middle-low",1,"Unspecified",1,7,3,NA,NA,NA,NA,NA,4,NA,1,2,2,NA,2016,NA
+"64",64,1985,34,21,"Secondary School","High",1,"North Hamgyong",1,10,3,3,2,3,3,3,2,3,2,3,2,2,2016,1.437181996
+"65",65,1985,34,21,"Secondary School","Middle",1,"North Hamgyong",1,10,3,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"66",66,1982,37,21,"Secondary School","Low",1,"North Hamgyong",1,9,2,2,2,2,2,4,2,3,3,2,2,2,2016,1.437181996
+"67",67,1993,26,22,"Secondary School","Low",1,"Ryanggang",1,3,2,1,3,4,4,3,2,2,2,3,2,2,2016,3
+"68",68,1993,26,22,"Secondary School","Middle",1,"Ryanggang",1,3,3,4,2,3,4,4,2,3,4,3,3,2,2016,3
+"69",69,1993,26,22,"Technical Training","Middle-low",0,"North Hamgyong",0,4,3,3,3,4,4,4,2,3,2,2,2,3,2016,3
+"70",70,1993,26,22,"Secondary School","Middle",1,"Ryanggang",1,4,3,2,2,2,2,3,3,3,3,3,2,2,2016,3
+"71",71,1992,27,22,"Secondary School","Middle-low",0,"North Hamgyong",0,5,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"72",72,1983,36,22,"Secondary School","Middle",1,"North Hamgyong",1,12,3,2,2,4,4,NA,2,2,2,3,4,2,2016,1.437181996
+"73",73,1981,38,22,"Secondary School","Low",1,"North Hamgyong",1,1,1,1,1,1,1,1,1,1,1,1,1,1,2016,1.437181996
+"74",74,1980,39,22,"Secondary School","Middle-low",0,"Unspecified",0,15,3,3,3,3,3,3,3,3,3,3,3,3,2016,NA
+"75",75,1994,25,23,"Secondary School","Middle",1,"Gangwon",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,2.874363992
+"76",76,1994,25,23,"Secondary School","Middle",1,"Gangwon",1,2,2,2,2,2,2,2,2,2,2,2,2,2,2016,2.874363992
+"77",77,1993,26,23,"Technical Training","Middle",1,"Ryanggang",1,1,NA,NA,NA,NA,NA,NA,NA,3,3,3,4,NA,2016,3
+"78",78,1993,26,23,NA,"Middle-low",0,"Ryanggang",0,3,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"79",79,1987,32,23,"Secondary School","Middle",1,"North Hamgyong",1,1,3,3,3,4,4,4,4,4,4,3,3,3,2016,1.437181996
+"80",80,1982,37,23,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,3,3,3,2,2,2,3,2,2,2016,1.437181996
+"81",81,1981,38,23,"Secondary School","Low",1,"Unspecified",1,6,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"82",82,1978,41,23,"Secondary School","Middle-low",1,"North Hamgyong",1,6,2,2,2,2,2,2,2,3,2,2,2,2,2016,1.437181996
+"83",83,1978,41,23,"Secondary School","Low",1,"North Hamgyong",1,13,2,3,3,3,4,4,2,3,2,2,2,3,2016,1.437181996
+"84",84,1994,25,24,"Secondary School","Middle-low",1,"Ryanggang",1,NA,2,1,1,3,3,1,1,3,1,3,2,1,2016,3
+"85",85,1993,26,24,NA,NA,0,"Unspecified",0,NA,3,4,4,2,3,3,2,2,3,4,3,2,2016,NA
+"86",86,1991,28,24,"Secondary School","Middle",1,"Ryanggang",1,1,3,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"87",87,1989,30,24,"Secondary School","High",1,"South Hwanghae",1,6,3,3,3,4,4,4,3,3,3,3,2,3,2016,2.155772994
+"88",88,1986,33,24,"Secondary School","Middle",1,"North Hamgyong",1,8,4,3,3,3,3,3,3,3,3,3,3,3,2016,1.437181996
+"89",89,1980,39,24,"Secondary School","Middle-low",1,"Pyongyang",1,7,4,2,2,2,3,3,2,3,3,3,2,3,2016,0.718590998
+"90",90,1980,39,24,"Secondary School","Middle-low",1,"Pyongyang",1,7,2,3,4,2,2,2,1,2,3,3,2,3,2016,0.718590998
+"91",91,1979,40,24,NA,"Middle",1,"Unspecified",1,3,2,2,2,NA,NA,4,2,2,2,4,2,3,2016,NA
+"92",92,1978,41,24,"Technical Training","Low",1,"North Hamgyong",1,12,NA,4,NA,NA,4,NA,4,NA,NA,4,NA,NA,2016,1.333748443
+"93",93,1977,42,24,"Secondary School","Low",1,"North Hamgyong",1,10,3,2,2,2,2,3,2,4,3,3,3,2,2016,1.437181996
+"94",94,1977,42,24,"Secondary School",NA,1,"North Hamgyong",1,12,2,2,2,2,3,4,2,3,2,2,2,2,2016,1.437181996
+"95",95,1977,42,24,"Secondary School","High",0,"North Hamgyong",0,13,2,3,3,3,3,3,2,2,2,2,2,3,2016,3
+"96",96,1976,43,24,"Secondary School","Low",1,"North Hamgyong",1,10,4,4,3,3,3,3,2,2,2,2,2,3,2016,1.437181996
+"97",97,1976,43,24,"University+","Middle",0,"Pyongyang",0,19,2,2,2,4,4,4,2,4,2,2,2,3,2016,1.732323232
+"98",98,1991,28,25,"Secondary School","High",0,"South Pyongan",0,1,2,2,3,3,2,3,2,3,4,3,3,3,2016,1.866666667
+"99",99,1982,37,25,"Technical Training","High",1,"Unspecified",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"100",100,1979,40,25,"Technical Training","Low",1,"Unspecified",1,14,3,2,2,2,4,4,2,3,2,3,2,2,2016,NA
+"101",101,1978,41,25,NA,"Low",0,"North Hamgyong",0,13,2,2,2,2,4,4,2,2,2,2,2,2,2016,NA
+"102",102,1992,27,26,"Secondary School","Middle-low",1,"Ryanggang",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"103",103,1992,27,26,"Secondary School","High",1,"Ryanggang",1,4,3,3,3,2,2,2,2,2,2,2,2,2,2016,3
+"104",104,1991,28,26,"Secondary School","Middle",1,"North Hamgyong",1,2,3,3,2,3,3,2,2,4,2,2,2,2,2016,1.437181996
+"105",105,1989,30,26,"Secondary School","High",1,"Ryanggang",1,3,3,3,3,3,3,3,3,3,3,3,3,3,2016,3
+"106",106,1988,31,26,"Secondary School","Low",1,"South Hamgyong",1,5,4,3,3,4,4,4,3,NA,3,3,3,3,2016,1.437181996
+"107",107,1987,32,26,"Secondary School","Middle-low",0,"North Hamgyong",0,5,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"108",108,1987,32,26,"Secondary School","Middle",0,"Ryanggang",0,6,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"109",109,1987,32,26,"Secondary School","Middle",1,"Ryanggang",1,6,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"110",110,1986,33,26,"Secondary School","Middle-low",1,"North Hamgyong",1,7,2,2,2,3,4,3,2,3,2,2,2,3,2016,1.437181996
+"111",111,1982,37,26,"Secondary School","Low",1,"North Hamgyong",1,2,3,2,2,2,3,2,2,4,2,2,3,2,2016,1.437181996
+"112",112,1975,44,26,"Technical Training","Middle-high",1,"North Hamgyong",1,8,NA,NA,NA,NA,4,NA,2,2,2,NA,1,4,2016,1.333748443
+"113",113,1974,45,26,"Secondary School","Middle",1,"South Hamgyong",1,NA,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"114",114,1974,45,26,"Secondary School","High",0,"North Hamgyong",0,15,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"115",115,1974,45,26,"Technical Training","Middle-high",1,"Pyongyang",1,19,2,2,2,2,2,2,2,2,2,2,2,2,2016,0.666874222
+"116",116,1992,27,27,"Secondary School","Middle-high",1,"North Hamgyong",1,NA,2,2,2,3,3,2,2,2,2,3,2,2,2016,1.437181996
+"117",117,1984,35,27,"Secondary School","High",1,"North Hamgyong",1,1,4,4,4,3,4,4,2,4,1,2,2,2,2016,1.437181996
+"118",118,1981,38,27,"Secondary School","Middle",1,"North Hamgyong",1,3,2,2,2,3,2,4,2,4,2,2,2,2,2016,1.437181996
+"119",119,1980,39,27,"Secondary School","Low",0,"South Hamgyong",0,12,3,2,2,4,3,2,2,4,3,2,2,2,2016,3
+"120",120,1976,43,27,"Secondary School","Middle",1,"North Hamgyong",1,16,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"121",121,1974,45,27,"Secondary School","Low",1,"Unspecified",1,10,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"122",122,1973,46,27,"Secondary School","Low",1,"North Hamgyong",1,11,3,4,3,3,3,3,3,3,3,3,3,4,2016,1.437181996
+"123",123,1973,46,27,"University+","Low",0,"South Hamgyong",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"124",124,1971,48,27,"Technical Training","Middle-low",0,"Pyongyang",0,13,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.732323232
+"125",125,1989,30,28,"Secondary School","Middle",1,"South Hwanghae",1,1,4,2,2,2,2,2,2,4,2,2,2,2,2016,2.155772994
+"126",126,1989,30,28,"Technical Training","Middle-low",1,"Ryanggang",1,2,3,2,2,2,2,2,2,2,2,NA,2,2,2016,3
+"127",127,1988,31,28,"Technical Training","Middle-low",1,"Ryanggang",1,2,3,3,2,3,3,3,3,4,4,2,2,3,2016,3
+"128",128,1988,31,28,"Secondary School","Middle",1,"Ryanggang",1,2,3,3,2,4,4,4,3,2,2,2,2,2,2016,3
+"129",129,1987,32,28,"<=Elementary","Middle",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.397260274
+"130",130,1987,32,28,NA,NA,1,"North Hwanghae",1,2,2,2,3,3,3,2,2,3,2,2,2,2,2016,NA
+"131",131,1986,33,28,"Secondary School","Middle",1,"Ryanggang",1,NA,2,3,3,3,4,4,4,4,4,3,3,3,2016,3
+"132",132,1985,34,28,"Secondary School","Low",1,"Unspecified",1,6,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"133",133,1979,40,28,"Secondary School","Low",0,"North Hamgyong",0,11,3,2,1,2,NA,NA,NA,NA,NA,NA,4,1,2016,3
+"134",134,1976,43,28,"Secondary School","Middle-low",1,"Unspecified",1,5,1,1,1,1,1,1,1,1,1,1,1,1,2016,NA
+"135",135,1976,43,28,"Secondary School","Low",0,"North Hamgyong",0,14,NA,NA,4,NA,NA,NA,NA,NA,NA,4,NA,4,2016,3
+"136",136,1973,46,28,"Secondary School","High",1,"North Hamgyong",1,7,3,3,3,3,3,4,3,3,3,3,3,3,2016,1.437181996
+"137",137,1971,48,28,"Technical Training","Low",0,"North Hamgyong",0,9,4,3,2,4,4,4,2,4,2,3,2,4,2016,3
+"138",138,1989,30,29,"Secondary School","Middle",0,"Ryanggang",0,NA,2,2,2,3,4,4,2,4,3,2,2,2,2016,3
+"139",139,1989,30,29,"Secondary School","Middle",1,"South Hamgyong",1,1,3,3,3,3,3,3,2,3,2,2,2,3,2016,1.437181996
+"140",140,1987,32,29,"Secondary School","Middle",1,"Ryanggang",1,2,3,2,2,3,4,NA,2,NA,2,2,2,2,2016,3
+"141",141,1979,40,29,"Secondary School","Low",1,"Pyongyang",1,11,3,3,3,3,4,4,3,4,2,3,1,3,2016,0.718590998
+"142",142,1971,48,29,"Technical Training","Middle-low",1,"Unspecified",1,4,3,3,3,3,3,3,3,4,3,3,3,3,2016,NA
+"143",143,1970,49,29,"Secondary School","Low",1,"North Pyongan",1,14,2,2,2,2,2,2,2,2,2,2,2,3,2016,0.718590998
+"144",144,1983,36,30,"University+","Middle-high",1,"Pyongyang",1,6,3,2,2,2,4,4,2,2,2,4,3,2,2016,0.666874222
+"145",145,1982,37,30,"Technical Training","Middle",1,"Ryanggang",1,5,3,2,2,3,3,3,2,2,2,2,2,3,2016,3
+"146",146,1981,38,30,"Technical Training","Middle",1,"Ryanggang",1,8,3,4,4,3,3,4,4,4,4,3,3,2,2016,3
+"147",147,1977,42,30,"University+","Middle-high",1,"North Hamgyong",1,9,2,2,2,2,2,3,2,2,2,2,2,2,2016,1.333748443
+"148",148,1977,42,30,"Secondary School","Low",1,"North Hamgyong",1,11,2,2,2,2,2,3,2,2,2,2,2,2,2016,1.437181996
+"149",149,1976,43,30,"Secondary School","Low",1,"Ryanggang",1,13,2,3,3,2,4,4,2,3,2,2,2,2,2016,3
+"150",150,1970,49,30,"Secondary School","Low",1,"North Hamgyong",1,13,3,4,4,3,3,4,3,NA,3,3,3,3,2016,1.437181996
+"151",151,1983,36,31,"Secondary School","Low",1,"South Hamgyong",1,1,2,2,2,3,3,3,2,3,2,2,2,2,2016,1.437181996
+"152",152,1980,39,31,"Secondary School","High",0,"Ryanggang",0,8,3,4,3,4,4,4,3,4,4,3,4,3,2016,3
+"153",153,1976,43,31,"Secondary School","Middle",1,"North Hamgyong",1,11,2,2,2,1,3,4,2,4,1,3,2,4,2016,1.437181996
+"154",154,1976,43,31,"Secondary School","Low",0,"North Hamgyong",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"155",155,1976,43,31,"Secondary School","High",1,"Unspecified",1,12,3,3,4,4,4,4,3,4,3,4,3,4,2016,NA
+"156",156,1975,44,31,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"157",157,1975,44,31,"Secondary School","High",1,"North Hamgyong",1,10,3,3,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"158",158,1975,44,31,"Secondary School","Low",0,"North Hamgyong",0,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,3
+"159",159,1974,45,31,"Secondary School","Low",1,"North Hamgyong",1,10,3,3,3,NA,2,4,2,4,2,4,2,3,2016,1.437181996
+"160",160,1970,49,31,"Secondary School","Low",1,"North Hamgyong",1,2,2,2,2,2,3,2,2,4,3,2,2,2,2016,1.437181996
+"161",161,1970,49,31,"Technical Training","Low",0,"Unspecified",0,6,2,2,2,3,4,4,3,2,2,2,2,3,2016,NA
+"162",162,1984,35,32,"University+","Middle-low",1,"Ryanggang",1,3,3,3,4,4,4,4,2,1,1,2,2,3,2016,3
+"163",163,1982,37,32,"Secondary School","Middle",1,"North Hamgyong",1,5,3,2,1,3,4,4,2,4,2,3,4,2,2016,1.437181996
+"164",164,1975,44,32,"Secondary School","Middle",0,"North Hamgyong",0,6,3,2,2,2,3,3,2,2,2,2,2,2,2016,3
+"165",165,1972,47,32,"Secondary School","Low",1,"North Hamgyong",1,9,2,3,3,4,4,3,2,2,2,2,2,3,2016,1.437181996
+"166",166,1972,47,32,"Secondary School","Low",1,"North Hamgyong",1,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"167",167,1971,48,32,"Secondary School","Middle",1,"North Hamgyong",1,16,3,3,3,2,3,3,3,3,3,3,3,3,2016,1.437181996
+"168",168,1970,49,32,"Secondary School","Middle",1,"North Hamgyong",1,2,4,2,2,2,2,3,2,4,3,2,3,3,2016,1.437181996
+"169",169,1970,49,32,"University+","Middle-low",1,"Pyongyang",1,9,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,2016,0.666874222
+"170",170,1969,50,32,"Secondary School","Middle",1,"North Hamgyong",1,14,4,4,4,4,4,4,3,4,3,3,3,3,2016,1.437181996
+"171",171,1968,51,32,"Technical Training","High",0,"North Hamgyong",0,19,NA,4,4,4,NA,4,NA,NA,NA,3,NA,4,2016,3
+"172",172,1983,36,33,"Secondary School","Middle",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"173",173,1977,42,33,"Secondary School","Low",0,"Gangwon",0,8,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"174",174,1976,43,33,"Secondary School","Low",1,"North Hamgyong",1,10,2,2,2,2,2,NA,2,2,2,2,2,2,2016,1.437181996
+"175",175,1975,44,33,"Secondary School","High",1,"North Hamgyong",1,10,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"176",176,1973,46,33,"Secondary School","Low",0,"North Hamgyong",0,12,1,1,1,1,1,1,1,1,1,1,1,1,2016,3
+"177",177,1973,46,33,"Secondary School","Middle",1,"North Hamgyong",1,12,4,4,4,4,4,4,3,4,3,4,3,4,2016,1.437181996
+"178",178,1970,49,33,"Secondary School","Middle-low",1,"North Hamgyong",1,10,NA,4,4,NA,4,4,4,4,4,4,3,4,2016,1.437181996
+"179",179,1969,50,33,"Secondary School","Low",0,"Unspecified",0,14,2,2,2,2,3,2,2,2,2,2,2,2,2016,NA
+"180",180,1968,51,33,"Secondary School","Low",1,"North Hamgyong",1,3,4,3,1,3,4,4,2,3,2,1,2,2,2016,1.437181996
+"181",181,1968,51,33,"Secondary School","Middle",1,"Gangwon",1,4,3,3,3,2,2,2,1,2,1,1,2,2,2016,2.874363992
+"182",182,1968,51,33,"Technical Training","Middle-low",1,"Gangwon",1,10,4,3,2,4,NA,NA,3,4,2,3,2,4,2016,2.667496887
+"183",183,1968,51,33,"Secondary School","Middle",1,"North Hamgyong",1,10,3,3,2,3,4,4,3,3,3,3,2,4,2016,1.437181996
+"184",184,1968,51,33,"Secondary School","High",1,"Ryanggang",1,12,3,3,2,1,1,4,2,3,3,2,4,2,2016,3
+"185",185,1967,52,33,"Secondary School","Low",1,"North Hamgyong",1,2,2,2,1,3,3,NA,2,2,2,2,4,4,2016,1.437181996
+"186",186,1967,52,33,"University+","Middle-high",1,"Pyongyang",1,19,2,2,2,2,2,2,2,2,2,2,2,2,2016,0.666874222
+"187",187,1981,38,34,"Secondary School","Middle",1,"Ryanggang",1,3,2,2,2,2,3,3,2,3,2,2,2,2,2016,3
+"188",188,1979,40,34,"Secondary School","Middle",0,"South Hamgyong",0,6,2,2,3,2,2,2,1,3,2,2,2,2,2016,3
+"189",189,1975,44,34,"Secondary School","Middle-high",0,"South Hwanghae",0,9,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"190",190,1973,46,34,"Secondary School","Middle-high",0,"North Hamgyong",0,12,NA,4,3,3,4,4,3,4,3,4,4,NA,2016,3
+"191",191,1970,49,34,"Secondary School","Low",1,"North Hamgyong",1,6,2,2,2,2,3,3,2,3,3,2,2,2,2016,1.437181996
+"192",192,1970,49,34,"Secondary School","Low",1,"North Hamgyong",1,10,2,3,3,3,3,4,2,3,2,2,2,2,2016,1.437181996
+"193",193,1969,50,34,"Secondary School","Low",1,"Pyongyang",1,4,3,3,3,4,4,4,2,3,2,3,2,3,2016,0.718590998
+"194",194,1969,50,34,"<=Elementary","Middle",0,"Unspecified",0,15,2,3,1,NA,4,4,4,NA,NA,3,2,2,2016,NA
+"195",195,1967,52,34,"Secondary School","Low",1,"North Hamgyong",1,6,4,2,2,2,2,2,1,4,2,2,1,4,2016,1.437181996
+"196",196,1967,52,34,"Secondary School","High",1,"South Hamgyong",1,11,2,2,2,4,4,3,2,NA,2,2,2,2,2016,1.437181996
+"197",197,1967,52,34,"University+","Middle",1,"North Pyongan",1,14,3,3,2,1,4,NA,3,4,1,1,3,1,2016,0.666874222
+"198",198,1966,53,34,"<=Elementary","Middle",1,"South Hamgyong",1,4,4,4,4,4,4,4,4,4,4,4,4,4,2016,1.397260274
+"199",199,1974,45,35,"University+","Middle",0,"North Hamgyong",0,6,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,2016,3
+"200",200,1973,46,35,"Secondary School","Middle-low",1,"North Hamgyong",1,6,2,2,2,2,2,3,2,2,3,3,2,2,2016,1.437181996
+"201",201,1973,46,35,"Secondary School","Middle",1,"North Hamgyong",1,10,3,2,2,2,2,4,4,4,3,3,2,2,2016,1.437181996
+"202",202,1972,47,35,"Secondary School","Low",1,"North Hamgyong",1,NA,2,2,2,3,3,4,2,NA,1,2,1,2,2016,1.437181996
+"203",203,1971,48,35,"Secondary School","Low",1,"North Hamgyong",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"204",204,1967,52,35,"Secondary School","Low",0,"North Hamgyong",0,13,4,3,2,3,3,4,2,3,3,4,3,4,2016,3
+"205",205,1966,53,35,"Secondary School","Low",1,"Unspecified",1,3,2,2,2,1,2,2,2,2,2,2,2,1,2016,NA
+"206",206,1966,53,35,"Secondary School","Low",1,"North Hamgyong",1,10,3,3,3,3,4,4,3,3,4,3,3,3,2016,1.437181996
+"207",207,1966,53,35,"Technical Training","High",1,"North Pyongan",1,14,4,3,2,2,3,4,4,4,NA,1,4,2,2016,0.666874222
+"208",208,1978,41,36,"Technical Training","Low",1,"Ryanggang",1,5,2,2,2,2,4,4,2,2,2,2,2,2,2016,3
+"209",209,1975,44,36,"Secondary School","Low",0,"North Hwanghae",0,7,2,2,2,2,2,2,2,NA,2,2,2,2,2016,3
+"210",210,1973,46,36,"University+","Low",0,"North Hamgyong",0,10,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"211",211,1971,48,36,"Secondary School","Middle",1,"North Hamgyong",1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,1.437181996
+"212",212,1971,48,36,"Secondary School","Low",0,"North Hamgyong",0,12,3,2,2,2,2,3,3,3,3,2,3,2,2016,3
+"213",213,1966,53,36,"Secondary School","High",1,"North Pyongan",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2016,0.718590998
+"214",214,1965,54,36,"University+","Middle",0,"North Pyongan",0,14,NA,4,3,2,4,NA,3,4,2,2,3,3,2016,1.732323232
+"215",215,1977,42,37,"University+","Low",0,"North Hamgyong",0,5,4,4,4,4,4,4,4,NA,NA,4,4,4,2016,3
+"216",216,1974,45,37,"Technical Training","Low",0,"North Hamgyong",0,7,4,3,3,4,2,4,2,4,2,4,4,2,2016,3
+"217",217,1972,47,37,"University+","Middle",1,"Unspecified",1,9,2,2,2,3,4,4,2,3,2,2,2,2,2016,NA
+"218",218,1972,47,37,"Technical Training","High",0,"Unspecified",0,10,3,2,3,3,2,3,2,2,2,2,2,2,2016,NA
+"219",219,1971,48,37,"<=Elementary","Middle-high",0,"Pyongyang",0,9,3,NA,NA,NA,NA,NA,3,NA,4,NA,4,NA,2016,1.814814815
+"220",220,1971,48,37,"Technical Training","Middle-low",0,"Gangwon",0,10,3,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"221",221,1970,49,37,"Secondary School","Low",1,"South Hamgyong",1,5,2,3,2,3,4,NA,2,2,2,2,2,2,2016,1.437181996
+"222",222,1966,53,37,"University+","Middle-low",0,"Jagang",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"223",223,1977,42,38,"Secondary School","Middle-low",1,"Jagang",1,3,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"224",224,1976,43,38,"University+","Middle",1,"Pyongyang",1,5,2,3,2,2,4,2,2,2,2,2,2,2,2016,0.666874222
+"225",225,1974,45,38,"Technical Training","Middle-low",1,"Ryanggang",1,6,2,2,2,2,4,2,2,2,2,2,2,2,2016,3
+"226",226,1973,46,38,"Technical Training","Low",0,"Ryanggang",0,7,2,3,2,2,2,3,2,3,2,2,2,3,2016,3
+"227",227,1971,48,38,"Secondary School","Low",1,"North Hamgyong",1,1,4,3,3,3,NA,4,NA,NA,4,3,3,3,2016,1.437181996
+"228",228,1971,48,38,"Technical Training","High",1,"North Hamgyong",1,10,4,4,3,4,4,4,3,4,3,3,3,3,2016,1.333748443
+"229",229,1970,49,38,"Secondary School","Middle",0,"Unspecified",0,11,3,2,2,2,2,3,2,4,2,2,2,2,2016,NA
+"230",230,1969,50,38,"Secondary School","Low",1,"North Hamgyong",1,9,2,2,2,2,2,3,2,2,2,2,2,2,2016,1.437181996
+"231",231,1968,51,38,"Secondary School","Low",1,"North Hamgyong",1,1,4,3,3,2,4,4,2,2,2,2,2,4,2016,1.437181996
+"232",232,1965,54,38,"University+","Middle-low",0,"Pyongyang",0,14,2,3,NA,NA,NA,NA,2,NA,2,NA,4,NA,2016,1.732323232
+"233",233,1963,56,38,"Secondary School","Middle-low",1,"South Pyongan",1,9,4,4,2,4,4,NA,2,2,2,3,2,2,2016,0.718590998
+"234",234,1971,48,39,"Secondary School","Middle",1,"North Hamgyong",1,5,3,2,2,2,3,4,2,2,2,3,3,2,2016,1.437181996
+"235",235,1971,48,39,"University+","Middle",1,"South Pyongan",1,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,0.666874222
+"236",236,1967,52,39,"Secondary School","Low",1,"Unspecified",1,12,2,2,2,2,2,2,2,2,2,3,2,2,2016,NA
+"237",237,1967,52,39,"Secondary School","Low",1,"North Hamgyong",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"238",238,1978,41,40,"Secondary School","High",0,"Ryanggang",0,NA,2,2,2,3,3,4,2,NA,2,2,1,2,2016,3
+"239",239,1975,44,40,"University+","Low",1,"Pyongyang",1,4,2,2,2,2,2,2,2,3,2,2,2,2,2016,0.666874222
+"240",240,1973,46,40,"Secondary School","Middle",0,"North Hwanghae",0,5,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"241",241,1973,46,40,"Technical Training","Middle",0,"Ryanggang",0,6,3,4,2,3,3,2,3,4,4,3,3,3,2016,3
+"242",242,1970,49,40,"Secondary School","Middle-high",1,"North Hamgyong",1,5,4,4,4,4,4,4,4,NA,4,4,NA,4,2016,1.437181996
+"243",243,1969,50,40,"Secondary School","Middle",1,"North Hamgyong",1,2,2,2,2,NA,4,4,2,2,2,4,2,2,2016,1.437181996
+"244",244,1967,52,40,"<=Elementary","Middle-low",1,"Pyongyang",1,12,3,2,1,1,1,1,1,1,1,2,2,1,2016,0.698630137
+"245",245,1961,58,40,"University+","Middle",0,"Gangwon",0,9,3,2,NA,1,4,4,2,2,2,1,1,1,2016,3
+"246",246,1961,58,40,"Secondary School","Low",1,"South Hamgyong",1,12,3,NA,4,2,2,4,2,1,NA,2,2,3,2016,1.437181996
+"247",247,1966,53,41,"Technical Training","High",1,"North Hamgyong",1,10,3,3,3,3,4,4,3,3,3,3,3,4,2016,1.333748443
+"248",248,1966,53,41,"Secondary School","Low",1,"North Hamgyong",1,10,3,3,3,2,NA,2,2,2,NA,1,1,2,2016,1.437181996
+"249",249,1974,45,42,"Secondary School","High",1,"North Hwanghae",1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2016,2.155772994
+"250",250,1970,49,42,"Secondary School","Middle-low",0,"North Hamgyong",0,6,2,4,2,3,3,4,2,3,2,3,3,2,2016,3
+"251",251,1969,50,42,"Secondary School","Middle",1,"North Hamgyong",1,7,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"252",252,1966,53,42,"Secondary School","Middle",0,"North Hamgyong",0,10,2,2,2,2,2,1,1,2,1,2,1,2,2016,3
+"253",253,1965,54,42,"Secondary School","Low",0,"North Hamgyong",0,12,2,3,2,4,2,4,2,2,2,2,2,2,2016,3
+"254",254,1959,60,42,"Secondary School","Low",0,"North Hamgyong",0,10,2,2,2,3,NA,NA,2,2,4,1,1,3,2016,3
+"255",255,1973,46,43,NA,"Middle-low",1,"Gangwon",1,NA,3,2,2,1,1,2,1,3,1,1,1,2,2016,NA
+"256",256,1972,47,43,"Secondary School","Low",0,"Pyongyang",0,4,2,2,2,2,4,3,2,2,2,2,2,2,2016,1.866666667
+"257",257,1971,48,43,"Technical Training","Middle",1,"South Pyongan",1,4,2,2,2,2,2,4,2,4,2,2,2,2,2016,0.666874222
+"258",258,1971,48,43,"Secondary School","Low",1,"North Hamgyong",1,5,4,4,3,2,3,3,2,4,3,3,2,3,2016,1.437181996
+"259",259,1969,50,43,"<=Elementary","Low",1,"Gangwon",1,4,2,2,2,2,NA,NA,2,4,4,2,2,2,2016,2.794520548
+"260",260,1966,53,43,"Secondary School","Low",1,"North Hamgyong",1,1,1,1,1,1,1,1,1,1,1,1,1,1,2016,1.437181996
+"261",261,1960,59,43,"University+","Middle",1,"North Hamgyong",1,13,2,2,2,2,4,4,2,2,2,2,2,2,2016,1.333748443
+"262",262,1968,51,44,"Secondary School","High",1,"North Hamgyong",1,6,2,2,3,2,1,4,2,NA,4,2,2,2,2016,1.437181996
+"263",263,1966,53,44,"Secondary School","Middle",0,"South Pyongan",0,5,4,4,3,2,3,NA,4,NA,3,2,2,2,2016,1.866666667
+"264",264,1966,53,44,NA,NA,1,"Ryanggang",1,9,1,4,NA,NA,NA,NA,1,2,1,NA,2,NA,2016,NA
+"265",265,1957,62,44,"Secondary School","Low",1,"North Pyongan",1,9,1,1,2,1,1,1,1,1,2,1,2,1,2016,0.718590998
+"266",266,1970,49,45,"Secondary School","Low",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"267",267,1969,50,45,"Secondary School","Low",1,"North Hamgyong",1,5,3,3,3,3,NA,3,NA,NA,2,NA,NA,3,2016,1.437181996
+"268",268,1969,50,46,"University+","Middle",0,"Ryanggang",0,4,2,2,2,4,3,3,2,2,2,2,2,2,2016,3
+"269",269,1968,51,46,"Technical Training","Middle-low",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.333748443
+"270",270,1964,55,46,"University+","Low",1,"Ryanggang",1,5,2,2,2,2,2,3,2,2,2,2,2,2,2016,3
+"271",271,1964,55,46,"Secondary School","Low",1,"Ryanggang",1,5,3,2,2,2,2,4,2,2,2,2,2,2,2016,3
+"272",272,1962,57,46,"Secondary School","High",0,"North Hamgyong",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"273",273,1961,58,46,"Secondary School","Middle",0,"North Hamgyong",0,12,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"274",274,1970,49,48,"Secondary School","Middle-low",1,"South Hamgyong",1,NA,3,3,3,4,NA,NA,3,NA,3,4,3,3,2016,1.437181996
+"275",275,1968,51,48,"Technical Training","Middle",1,"North Hamgyong",1,2,2,2,2,2,2,3,2,3,2,2,2,2,2016,1.333748443
+"276",276,1965,54,48,"Technical Training","Middle-low",1,"North Hamgyong",1,6,NA,NA,4,4,NA,NA,4,4,4,3,3,NA,2016,1.333748443
+"277",277,1953,66,48,"Secondary School","Low",1,"China",1,10,3,3,3,NA,NA,NA,3,NA,3,3,3,3,2016,NA
+"278",278,1961,58,49,"Secondary School","Low",0,"South Hwanghae",0,4,2,1,2,2,2,2,2,2,2,3,2,2,2016,3
+"279",279,1968,51,50,"Secondary School","Low",1,"Ryanggang",1,1,3,2,2,3,2,4,2,4,2,2,3,2,2016,3
+"280",280,1962,57,50,"Secondary School","Middle",1,"North Hamgyong",1,6,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"281",281,1962,57,50,"Secondary School","Middle-low",1,"Ryanggang",1,6,2,2,2,3,4,4,2,2,2,2,2,2,2016,3
+"282",282,1961,58,50,"Secondary School","Low",1,"South Hwanghae",1,4,2,2,3,2,2,3,2,2,2,4,2,2,2016,2.155772994
+"283",283,1953,66,50,"Secondary School","Low",1,"North Hamgyong",1,16,2,2,2,3,3,2,3,3,3,3,2,2,2016,1.437181996
+"284",284,1951,68,50,"Secondary School",NA,1,"Pyongyang",1,7,4,NA,2,1,1,NA,2,4,4,4,1,1,2016,0.718590998
+"285",285,1950,69,50,"University+","High",0,"North Hamgyong",0,14,3,3,2,3,4,4,3,3,4,3,3,2,2016,3
+"286",286,1950,69,50,"Secondary School","High",1,"China",1,15,1,2,1,1,1,3,1,1,1,1,1,1,2016,NA
+"287",287,1950,69,51,"Secondary School","Low",0,"South Hamgyong",0,10,4,3,3,4,NA,NA,3,NA,1,1,1,3,2016,3
+"288",288,1962,57,52,"University+","Low",1,"South Hamgyong",1,5,NA,3,3,NA,NA,NA,2,NA,1,3,3,2,2016,1.333748443
+"289",289,1949,70,52,"Secondary School","Low",1,"South Hamgyong",1,6,2,2,2,2,1,1,2,2,2,2,2,2,2016,1.437181996
+"290",290,1963,56,53,"Technical Training","Middle",1,"Gangwon",1,3,2,2,2,2,2,2,2,2,2,2,2,2,2016,2.667496887
+"291",291,1955,64,53,"Technical Training","Low",1,"North Hamgyong",1,11,3,2,2,2,2,3,2,2,2,2,2,2,2016,1.333748443
+"292",292,1953,66,53,"Secondary School","Middle-low",1,"South Pyongan",1,12,2,2,2,2,4,3,2,2,2,2,2,1,2016,0.718590998
+"293",293,1948,71,53,"Secondary School","Low",1,"North Hamgyong",1,5,4,1,1,1,NA,NA,4,4,4,1,3,1,2016,1.437181996
+"294",294,1948,71,53,"Secondary School","Low",1,"Pyongyang",1,12,3,2,2,3,4,4,2,2,1,2,2,1,2016,0.718590998
+"295",295,1948,71,53,"Secondary School","High",1,"Japan",1,15,2,2,2,3,2,2,2,NA,3,3,2,2,2016,NA
+"296",296,1963,56,54,"Secondary School","Middle-low",1,"Ryanggang",1,2,2,2,2,2,2,2,2,NA,2,2,2,2,2016,3
+"297",297,1958,61,54,"Secondary School","Low",0,"China",0,7,3,3,3,4,4,4,3,4,3,3,3,3,2016,NA
+"298",298,1952,67,55,"Technical Training","High",1,"Pyongyang",1,9,2,1,3,2,3,3,2,1,2,2,2,2,2016,0.666874222
+"299",299,1948,71,55,"Secondary School","High",1,"North Pyongan",1,7,3,2,2,4,4,4,3,4,3,3,2,2,2016,0.718590998
+"300",300,1944,75,55,NA,"Low",0,"China",0,15,2,2,2,4,4,NA,2,4,2,2,2,2,2016,NA
+"301",301,1961,58,56,"Secondary School","Low",1,"Unspecified",1,2,1,1,1,1,1,1,1,1,1,1,1,1,2016,NA
+"302",302,1962,57,57,"Secondary School","Low",1,"Ryanggang",1,NA,3,2,3,2,4,4,1,2,4,2,3,2,2016,3
+"303",303,1959,60,57,"University+","Middle-low",0,"Ryanggang",0,3,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"304",304,1954,65,57,"Secondary School","Low",1,"North Hamgyong",1,7,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"305",305,1948,71,57,"Secondary School","Low",1,"North Hamgyong",1,14,3,2,2,4,4,4,2,3,3,2,2,2,2016,1.437181996
+"306",306,1944,75,57,"University+","High",0,"North Hamgyong",0,18,3,2,2,4,4,4,2,4,2,2,2,3,2016,3
+"307",307,1959,60,58,"Technical Training","Middle",1,"Ryanggang",1,2,2,2,2,2,2,2,2,2,2,2,2,2,2016,3
+"308",308,1949,70,58,"Secondary School","High",1,"North Hamgyong",1,11,2,2,2,3,3,4,2,4,2,2,2,2,2016,1.437181996
+"309",309,1942,77,58,"Secondary School","Middle-high",1,"Pyongyang",1,19,3,3,3,3,3,3,3,3,3,3,3,3,2016,0.718590998
+"310",310,1942,77,58,"Secondary School","Low",1,"North Pyongan",1,19,3,2,1,2,3,2,1,1,1,1,1,1,2016,0.718590998
+"311",311,1950,69,59,"Secondary School","Middle",1,"North Hamgyong",1,10,3,3,3,3,3,4,3,3,3,3,3,3,2016,1.437181996
+"312",312,1948,71,59,"University+","High",1,"China",1,12,2,2,2,2,2,2,2,2,2,3,2,2,2016,NA
+"313",313,1951,68,60,"Technical Training","Low",1,"Pyongyang",1,8,2,2,2,2,3,4,1,2,1,2,2,2,2016,0.666874222
+"314",314,1941,78,60,"<=Elementary","Middle",1,"China",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2016,NA
+"315",315,1941,78,60,"University+","High",0,"South Hamgyong",0,16,4,2,2,4,3,4,2,4,2,2,2,3,2016,3
+"316",316,1949,70,61,"University+","Low",1,"North Pyongan",1,9,2,2,2,3,3,4,2,4,2,2,2,2,2016,0.666874222
+"317",317,1948,71,61,"Secondary School","High",1,"North Hamgyong",1,10,3,3,2,3,2,2,2,3,3,3,2,2,2016,1.437181996
+"318",318,1947,72,61,"Secondary School","Middle",1,"Japan",1,8,2,3,3,4,4,4,1,1,2,2,2,2,2016,NA
+"319",319,1953,66,62,"Secondary School","High",1,"Japan",1,4,3,3,2,3,2,NA,2,NA,3,3,2,2,2016,NA
+"320",320,1952,67,62,"Secondary School","Low",0,"Pre-war South Korea",0,3,2,2,2,2,2,3,3,4,2,2,2,1,2016,NA
+"321",321,1945,74,62,"Technical Training","High",1,"South Hwanghae",1,9,3,2,2,3,4,4,1,2,1,2,2,1,2016,2.000622665
+"322",322,1942,77,62,"Secondary School","Low",1,"North Hamgyong",1,7,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.437181996
+"323",323,1948,71,63,"Secondary School","Low",0,"North Hamgyong",0,7,2,3,3,NA,NA,NA,2,2,2,4,2,NA,2016,3
+"324",324,1943,76,63,"<=Elementary","Middle",1,"North Hamgyong",1,13,4,3,3,3,3,4,3,3,3,3,3,4,2016,1.397260274
+"325",325,1937,82,63,"Secondary School","Middle",0,"Pyongyang",0,19,2,2,2,2,2,2,2,2,2,2,2,2,2016,1.866666667
+"326",326,1946,73,64,"Secondary School","Low",1,"Ryanggang",1,9,3,2,3,2,4,4,2,3,2,3,2,4,2016,3
+"327",327,1945,74,64,"<=Elementary","High",1,"South Hamgyong",1,9,3,3,3,3,3,4,3,3,3,3,3,3,2016,1.397260274
+"328",328,1951,68,65,"Secondary School","Low",0,"North Hamgyong",0,3,2,2,2,2,2,3,2,2,2,2,2,2,2016,3
+"329",329,1949,70,65,"Secondary School","High",0,"North Hamgyong",0,5,3,3,2,4,4,4,3,4,3,3,2,4,2016,3
+"330",330,1945,74,65,"Secondary School","High",1,"South Hamgyong",1,9,2,2,2,3,2,4,2,NA,3,3,2,2,2016,1.437181996
+"331",331,1942,77,65,"<=Elementary","Middle-high",0,"South Hamgyong",0,8,2,2,2,4,NA,NA,2,3,1,NA,1,3,2016,3
+"332",332,1946,73,66,"University+","High",0,"North Hamgyong",0,7,2,2,2,2,2,2,2,3,2,2,2,2,2016,3
+"333",333,1943,76,66,"Secondary School","Middle",1,"North Hamgyong",1,10,4,3,3,3,4,4,3,3,3,3,3,4,2016,1.437181996
+"334",334,1941,78,66,"University+","Middle",1,"South Hamgyong",1,10,3,3,2,4,3,3,1,1,1,1,1,2,2016,1.333748443
+"335",335,1941,78,66,"Secondary School","Low",0,"North Hamgyong",0,12,3,1,2,1,1,3,1,3,1,2,1,3,2016,3
+"336",336,1949,70,67,"Technical Training","Middle",0,"Pyongyang",0,2,2,2,2,2,3,2,2,2,2,2,2,2,2016,1.732323232
+"337",337,1943,76,67,"Secondary School","Low",1,"South Hamgyong",1,8,3,3,NA,NA,NA,NA,3,1,3,NA,4,NA,2016,1.437181996
+"338",338,1935,84,67,"<=Elementary","High",1,"North Hamgyong",1,13,4,3,3,3,3,4,3,3,3,2,2,4,2016,1.397260274
+"339",339,1945,74,68,"Secondary School","Middle-low",0,"North Hamgyong",0,5,2,2,2,2,2,4,2,2,2,2,2,1,2016,3
+"340",340,1941,78,70,"Secondary School","Middle",1,"North Hwanghae",1,8,2,2,2,2,3,2,2,2,2,2,2,2,2016,2.155772994
+"341",341,2000,19,NA,"Secondary School","Middle",1,"North Hamgyong",1,NA,4,4,4,4,4,4,4,4,4,4,4,4,2016,1.437181996
+"342",342,1968,51,NA,"Secondary School","Middle",0,"Unspecified",0,NA,2,NA,NA,NA,NA,NA,3,4,NA,NA,2,NA,2016,NA
+"343",343,NA,NA,NA,"Secondary School","Middle",0,"Ryanggang",0,1,3,3,3,3,3,3,3,3,3,3,3,3,2016,3
+"344",344,NA,NA,NA,"University+","Middle-low",0,"Ryanggang",0,1,4,4,3,3,4,4,4,4,4,3,4,3,2016,3
+"345",345,NA,NA,NA,"<=Elementary","Middle",0,"Unspecified",0,1,4,4,4,4,3,4,3,4,3,NA,2,4,2016,NA
+"346",346,NA,NA,NA,"Secondary School","Middle",1,"North Hamgyong",1,2,2,2,2,3,4,3,2,4,2,2,2,3,2016,1.437181996
+"347",347,NA,NA,NA,"University+","Middle-low",0,"Ryanggang",0,2,3,3,3,3,3,3,2,3,NA,2,2,2,2016,3
+"348",348,NA,NA,NA,"<=Elementary","Low",0,"Unspecified",0,3,2,2,2,3,4,3,2,2,2,2,2,2,2016,NA
+"349",349,NA,NA,NA,"Secondary School","Middle",0,"Ryanggang",0,3,3,3,2,4,4,4,2,4,4,2,3,2,2016,3
+"350",350,NA,NA,NA,"Secondary School","High",1,"North Hamgyong",1,5,2,2,2,2,3,3,2,2,2,3,2,2,2016,1.437181996
+"351",351,NA,NA,NA,"Technical Training","Middle",1,"Ryanggang",1,NA,4,3,2,NA,4,NA,3,NA,3,3,3,2,2016,3
+"352",352,NA,NA,NA,"Secondary School","Middle",0,"Ryanggang",0,NA,3,2,2,NA,4,NA,3,NA,3,3,3,2,2016,3
+"353",353,1979,40,32,"Secondary School","Middle-low",1,"North Hamgyong",1,7,2,2,2,3,3,3,3,3,3,2,3,2,2019,1.437181996
+"354",354,1969,50,35,"Secondary School","Low",1,"North Hamgyong",1,3,2,2,1,4,3,4,2,4,3,NA,2,2,2019,1.437181996
+"355",355,1966,53,40,"Technical Training","Low",1,"Gangwon",1,7,3,3,2,3,3,2,2,2,2,2,2,2,2019,2.667496887
+"356",356,1979,40,36,"Secondary School","Middle-low",1,"Ryanggang",1,1,3,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"357",357,1989,30,22,"University+","High",0,"Ryanggang",0,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019,3
+"358",358,1988,31,19,"Secondary School",NA,1,"South Pyongan",1,3,4,3,1,3,3,3,3,2,3,3,3,3,2019,0.718590998
+"359",359,1963,56,NA,"Secondary School","Middle-high",NA,"North Hamgyong",NA,NA,4,1,1,3,4,4,3,4,3,3,4,1,2019,NA
+"360",360,1970,49,30,"Secondary School","Middle",1,"South Hamgyong",1,4,3,3,2,2,3,3,2,2,2,2,2,1,2019,1.437181996
+"361",361,1995,24,13,"Secondary School","Middle",1,"South Hamgyong",1,6,3,2,2,4,4,4,3,NA,3,3,3,1,2019,1.437181996
+"362",362,1966,53,41,"Technical Training","Middle",1,"North Hamgyong",1,12,4,1,1,3,4,3,1,3,1,1,1,1,2019,1.333748443
+"363",363,1971,48,40,"Secondary School","Middle-high",1,"North Hamgyong",1,8,2,2,2,3,2,3,2,2,2,2,3,2,2019,1.437181996
+"364",364,1975,44,36,"Secondary School","Low",1,"Ryanggang",1,7,3,3,2,4,3,NA,3,4,4,3,3,3,2019,3
+"365",365,1974,45,36,"University+","Middle",0,"North Hamgyong",0,8,2,2,2,3,2,2,2,4,2,2,2,2,2019,3
+"366",366,1957,62,42,"Secondary School","Middle",1,"North Hamgyong",1,15,3,2,4,4,4,2,2,2,4,3,2,1,2019,1.437181996
+"367",367,1972,47,40,"Secondary School","Middle",0,"South Hamgyong",0,7,3,2,4,4,NA,NA,2,2,2,3,2,2,2019,3
+"368",368,1946,73,61,"Technical Training","Middle-low",1,"Nampo",1,9,2,3,4,3,4,4,1,NA,2,2,1,1,2019,NA
+"369",369,1970,49,39,"Technical Training","High",1,"North Hamgyong",1,7,3,3,2,3,3,3,2,3,3,2,2,2,2019,1.333748443
+"370",370,1973,46,44,"Technical Training","Middle-low",1,"Gangwon",1,2,3,3,2,2,3,2,2,2,2,2,2,2,2019,2.667496887
+"371",371,1981,38,23,"Secondary School","Middle-low",1,"North Hamgyong",1,6,2,3,3,3,3,2,2,2,1,1,1,1,2019,1.437181996
+"372",372,1974,45,32,"Secondary School","Middle",1,"North Hamgyong",1,5,2,2,2,2,3,4,1,4,1,1,1,1,2019,1.437181996
+"373",373,1978,41,20,"Secondary School","Low",1,"North Hamgyong",1,5,2,2,2,3,3,3,2,2,2,2,2,2,2019,1.437181996
+"374",374,1988,31,21,"University+","Middle",1,"Ryanggang",1,4,2,2,2,2,4,4,2,2,3,2,2,2,2019,3
+"375",375,1969,50,29,"Secondary School","Low",1,"North Hamgyong",1,9,1,4,NA,NA,NA,NA,4,4,3,4,3,4,2019,1.437181996
+"376",376,1956,63,56,"Technical Training","High",0,"Ryanggang",0,6,2,2,2,2,3,4,2,2,2,2,2,2,2019,3
+"377",377,1998,21,14,"<=Elementary","Low",0,"North Hamgyong",0,7,4,2,2,3,4,4,3,4,4,4,4,4,2019,3
+"378",378,1977,42,41,"Secondary School","Middle",1,"Ryanggang",1,1,3,3,3,4,4,3,2,3,2,2,2,2,2019,3
+"379",379,1991,28,22,"Secondary School","Low",1,"Ryanggang",1,1,1,2,1,1,2,3,1,3,1,1,1,1,2019,3
+"380",380,1980,39,33,"Secondary School","Middle-low",1,"Ryanggang",1,1,2,2,2,2,2,3,2,2,2,2,2,2,2019,3
+"381",381,1960,59,46,NA,"Low",1,"North Hamgyong",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,NA
+"382",382,1970,49,33,"Secondary School","Low",1,"North Hamgyong",1,9,4,4,3,NA,4,4,4,NA,NA,4,NA,4,2019,1.437181996
+"383",383,1961,58,46,"Technical Training","Low",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.333748443
+"384",384,1974,45,24,"Secondary School","Middle",0,"North Hamgyong",0,16,2,2,2,3,2,4,2,3,2,2,2,2,2019,3
+"385",385,1988,31,25,"Technical Training","High",0,"Ryanggang",0,5,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"386",386,1974,45,25,"Secondary School","Middle-high",1,"North Hamgyong",1,13,3,4,2,2,1,3,2,2,2,2,3,2,2019,1.437181996
+"387",387,1975,44,23,"Secondary School","Middle",1,"North Hamgyong",1,15,4,3,3,4,4,4,3,NA,3,3,3,4,2019,1.437181996
+"388",388,1964,55,37,"Secondary School","Low",1,"North Hamgyong",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"389",389,1987,32,22,"Secondary School","Middle",1,"North Hamgyong",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"390",390,1986,33,17,"Secondary School","Middle",1,"Ryanggang",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"391",391,NA,NA,NA,"Secondary School","Middle",NA,"North Hamgyong",NA,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,NA
+"392",392,1976,43,35,"Secondary School","Middle-low",0,"Pyongyang",0,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.866666667
+"393",393,1970,49,40,"Secondary School","Middle-high",0,"North Hamgyong",0,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"394",394,1968,51,40,"Secondary School","Middle-low",1,"North Hamgyong",1,1,2,2,2,2,3,3,2,NA,2,2,2,2,2019,1.437181996
+"395",395,1964,55,NA,"Secondary School","Middle",0,"Ryanggang",0,NA,1,4,4,NA,NA,NA,1,NA,3,NA,3,NA,2019,3
+"396",396,1952,67,NA,"Secondary School","Middle",0,"Jagang",0,2,1,1,NA,NA,1,NA,NA,1,1,1,1,NA,2019,3
+"397",397,1967,52,31,"Secondary School","Middle",1,"North Hamgyong",1,17,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"398",398,1955,64,56,"Secondary School","Low",1,"Ryanggang",1,3,3,1,1,3,3,4,2,3,1,2,1,1,2019,3
+"399",399,1951,68,47,"Secondary School","Low",1,"North Hamgyong",1,3,3,1,1,3,4,4,1,NA,1,2,1,2,2019,1.437181996
+"400",400,1958,61,49,"Secondary School","Middle",1," South Pyongan",1,8,3,2,3,4,4,4,2,2,2,2,2,2,2019,0.718590998
+"401",401,NA,NA,NA,"Secondary School",NA,1,"North Hamgyong",1,5,NA,3,2,3,NA,4,3,NA,NA,3,NA,2,2019,1.437181996
+"402",402,1945,74,53,"Secondary School","Low",1,"North Hamgyong",1,9,NA,NA,3,3,3,3,NA,NA,NA,2,3,2,2019,1.437181996
+"403",403,1973,46,39,"Secondary School","Middle",0,"Ryanggang",0,7,3,2,2,3,4,4,2,2,2,3,2,2,2019,3
+"404",404,1990,29,22,"Secondary School","Middle-high",1,"Ryanggang",1,3,4,3,3,2,2,4,3,3,3,3,3,3,2019,3
+"405",405,1978,41,36,"University+","Middle",1,"North Hamgyong",1,5,3,2,2,2,4,4,2,NA,3,2,NA,3,2019,1.333748443
+"406",406,1948,71,57,"Secondary School","Low",1,"North Hamgyong",1,14,2,2,2,3,4,4,2,NA,2,2,NA,3,2019,1.437181996
+"407",407,1982,37,16,"Secondary School","Middle-low",0,"North Hamgyong",0,16,2,2,2,1,3,4,2,1,1,3,3,1,2019,3
+"408",408,1984,35,20,"Secondary School","Middle",1,"North Hamgyong",1,13,2,3,3,4,4,4,2,2,1,2,2,2,2019,1.437181996
+"409",409,1984,35,27,"Technical Training","Middle",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,4,2,2019,1.333748443
+"410",410,1979,40,35,"Technical Training","Middle-low",0,"North Hamgyong",0,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"411",411,1989,30,NA,"Secondary School","High",1,"North Hwanghae",1,NA,2,2,2,2,2,2,2,2,2,2,2,2,2019,2.155772994
+"412",412,1974,45,25,"Secondary School","Low",1,"North Hamgyong",1,13,3,2,2,2,4,4,3,3,2,2,2,2,2019,1.437181996
+"413",413,1972,47,27,"Technical Training","Middle-low",1,"North Hamgyong",1,9,4,3,3,2,2,NA,2,NA,2,3,4,2,2019,1.333748443
+"414",414,1979,40,19,"Secondary School","Low",1,"North Hamgyong",1,6,4,2,2,2,3,3,2,4,2,3,2,2,2019,1.437181996
+"415",415,1963,56,26,"Secondary School","Low",1,"South Hamgyong",1,6,2,3,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"416",416,1963,56,45,"University+","Middle",0,"North Hamgyong",0,11,4,2,2,3,4,4,2,3,2,2,2,2,2019,3
+"417",417,1981,38,33,"Secondary School","Middle-low",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"418",418,1984,35,20,"Secondary School","Middle-low",1,"North Hamgyong",1,11,4,NA,2,4,4,4,2,4,2,2,2,2,2019,1.437181996
+"419",419,1977,42,20,"Secondary School","Low",1,"North Hamgyong",1,13,2,2,3,3,2,4,2,3,3,2,3,2,2019,1.437181996
+"420",420,1959,60,51,"Secondary School","Middle",1,"North Hamgyong",1,9,2,1,4,2,4,NA,2,2,2,1,1,2,2019,1.437181996
+"421",421,1967,52,31,"Technical Training","Middle",1,"North Hamgyong",1,17,3,2,1,3,4,3,1,1,1,1,1,1,2019,1.333748443
+"422",422,1937,82,52,"University+","Middle-low",1,"North Hamgyong",1,9,4,2,2,2,2,2,2,2,2,2,2,2,2019,1.333748443
+"423",423,1982,37,31,"Secondary School","Middle",1,"North Hamgyong",1,5,2,2,2,2,3,3,2,3,2,2,2,2,2019,1.437181996
+"424",424,1966,53,46,"Secondary School","Middle",1,"Ryanggang",1,1,3,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"425",425,1967,52,35,"Secondary School","Middle-low",1," South Pyongan",1,12,2,2,2,2,3,4,2,2,2,2,2,2,2019,0.718590998
+"426",426,1980,39,24,"Secondary School","Low",1,"North Hamgyong",1,11,3,2,2,3,4,3,2,4,2,2,2,4,2019,1.437181996
+"427",427,1985,34,22,"Secondary School","Middle-low",1,"North Hamgyong",1,11,3,3,4,NA,3,3,3,NA,NA,3,3,3,2019,1.437181996
+"428",428,1976,43,21,"Secondary School","Middle",1,"South Hamgyong",1,16,2,2,3,4,NA,4,3,2,2,2,1,1,2019,1.437181996
+"429",429,1955,64,54,"Secondary School","Middle",0,"South Hamgyong",0,10,1,1,3,4,4,NA,2,3,1,1,1,1,2019,3
+"430",430,1987,32,15,"Secondary School","Low",1,"Ryanggang",1,2,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"431",431,1991,28,24,"Secondary School","Middle-high",0,"Ryanggang",0,3,2,2,2,2,2,4,2,4,NA,2,2,2,2019,3
+"432",432,1980,39,18,"Secondary School","Low",1,"Jagang",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"433",433,NA,NA,NA,"<=Elementary","Low",1,"Ryanggang",1,1,3,3,NA,3,3,3,3,3,3,3,3,3,2019,3
+"434",434,NA,NA,NA,"Secondary School","Middle-low",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"435",435,1946,73,51,"Secondary School","Low",1,"North Hamgyong",1,9,4,NA,2,4,4,NA,2,2,2,2,2,2,2019,1.437181996
+"436",436,1990,29,21,"Secondary School","Middle-low",NA,"Ryanggang",NA,1,3,3,3,4,4,3,1,NA,3,1,2,2,2019,NA
+"437",437,1970,49,34,"Secondary School","Middle-low",0,"North Hamgyong",0,3,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"438",438,1950,69,54,"Secondary School","High",1,"North Hamgyong",1,14,2,3,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"439",439,1977,42,30,"Secondary School","Middle",1,"North Hamgyong",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"440",440,1967,52,44,"Secondary School","Low",1,"North Hamgyong",1,8,3,3,2,1,4,4,1,3,4,3,3,2,2019,1.437181996
+"441",441,1991,28,24,"Secondary School","Middle",0,"Ryanggang",0,3,2,2,2,4,3,4,2,4,2,2,3,2,2019,3
+"442",442,1984,35,28,"Secondary School","Middle-high",0,"North Hamgyong",0,6,4,3,2,2,2,2,2,4,2,2,2,2,2019,3
+"443",443,1975,44,33,"Secondary School","Middle-low",0,"Ryanggang",0,10,2,1,2,1,2,3,2,3,2,2,2,2,2019,3
+"444",444,1972,47,34,"Technical Training","Middle",1,"Ryanggang",1,8,4,4,2,3,3,4,3,4,3,2,2,2,2019,3
+"445",445,1984,35,23,"Secondary School","Middle",1,"North Hamgyong",1,9,3,4,2,4,4,3,3,4,3,1,3,2,2019,1.437181996
+"446",446,1985,34,31,"Technical Training","Middle",0,"North Hamgyong",0,3,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"447",447,1995,24,22,"Technical Training","Low",NA,"Ryanggang",NA,1,2,2,2,2,3,2,2,2,2,2,2,2,2019,NA
+"448",448,1963,56,49,"Secondary School","Middle-low",1,"Ryanggang",1,6,2,2,2,2,4,2,2,2,2,2,2,2,2019,3
+"449",449,1977,42,20,"Technical Training","Low",1,"North Hamgyong",1,9,2,2,2,2,4,4,2,2,2,2,2,2,2019,1.333748443
+"450",450,1999,20,14,"Secondary School","Middle",0,"Ryanggang",0,1,3,3,4,3,4,3,3,3,3,4,3,4,2019,3
+"451",451,1994,25,21,"Secondary School","Middle",1,"Ryanggang",1,2,3,2,2,2,3,3,2,4,3,2,2,2,2019,3
+"452",452,1993,26,21,"Secondary School","Low",0,"Ryanggang",0,4,2,2,2,2,3,3,2,2,2,2,2,2,2019,3
+"453",453,1983,36,28,"Secondary School","Middle-low",1,"Ryanggang",1,2,4,4,3,2,2,2,3,4,3,2,2,2,2019,3
+"454",454,1996,23,19,"Secondary School","Middle",0,"Ryanggang",0,3,3,2,2,2,3,2,2,4,2,2,3,2,2019,3
+"455",455,1999,20,17,"Secondary School","Middle",1,"Ryanggang",1,2,3,2,2,2,3,2,2,3,2,2,2,2,2019,3
+"456",456,1967,52,43,"Secondary School",NA,0," South Pyongan",0,7,2,2,1,2,2,2,2,2,2,2,2,2,2019,1.866666667
+"457",457,1989,30,23,"Secondary School","Middle-low",1,"North Hamgyong",1,1,2,3,2,3,1,4,2,2,1,3,2,2,2019,1.437181996
+"458",458,1953,66,62,"University+","Middle",1,"North Hamgyong",1,1,2,2,2,3,4,4,2,3,2,2,2,3,2019,1.333748443
+"459",459,1979,40,24,"Secondary School","Low",1,"Ryanggang",1,6,2,2,2,2,NA,4,2,2,2,2,2,2,2019,3
+"460",460,1948,71,NA,"Secondary School","Middle-low",0,"South Hamgyong",0,NA,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"461",461,1978,41,20,"Secondary School","Low",1,"North Hamgyong",1,15,2,2,2,3,2,3,3,4,3,3,3,2,2019,1.437181996
+"462",462,1958,61,39,"Technical Training","Middle-high",1,"Pyongyang",1,13,2,3,2,2,2,2,2,2,2,2,2,2,2019,0.666874222
+"463",463,1958,61,39,"Technical Training","Low",1,"North Hamgyong",1,16,2,NA,2,2,2,4,2,2,2,2,2,2,2019,1.333748443
+"464",464,1963,56,34,"Secondary School","Low",1,"North Hamgyong",1,15,2,1,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"465",465,1938,81,66,"University+","High",0,"North Hamgyong",0,14,2,3,2,2,2,2,2,2,2,2,2,2,2019,3
+"466",466,1974,45,38,"Secondary School","Middle",1,"Ryanggang",1,7,4,3,2,4,NA,NA,2,2,2,3,3,1,2019,3
+"467",467,1981,38,28,"Secondary School","Low",0,"North Hamgyong",0,10,3,3,4,4,4,2,2,2,2,2,2,2,2019,3
+"468",468,1980,39,24,"Secondary School","Low",NA,"North Hamgyong",NA,10,3,3,4,4,4,2,2,2,2,2,2,2,2019,NA
+"469",469,1978,41,31,"Secondary School",NA,1,"North Hamgyong",1,10,3,3,3,4,4,2,2,2,2,2,2,2,2019,1.437181996
+"470",470,1992,27,23,"Secondary School","Middle-low",1,"Ryanggang",1,2,3,3,3,4,3,3,3,3,3,3,3,3,2019,3
+"471",471,1966,53,43,"Secondary School","Low",0,"North Hamgyong",0,10,3,3,4,3,3,2,2,2,2,2,2,2,2019,3
+"472",472,1973,46,36,"Secondary School","High",1,"Ryanggang",1,10,3,3,3,3,4,2,2,2,2,2,2,2,2019,3
+"473",473,1971,48,27,"Secondary School","Low",1,"North Hamgyong",1,7,2,2,2,2,4,4,2,4,2,2,2,2,2019,1.437181996
+"474",474,1966,53,42,"Secondary School","Middle-low",0,"South Hwanghae",0,11,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"475",475,1987,32,17,"Secondary School","Middle",1,"North Hamgyong",1,11,2,2,2,3,4,4,3,3,2,3,3,2,2019,1.437181996
+"476",476,1990,29,23,"Secondary School","Middle",0,"Ryanggang",0,6,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"477",477,1987,32,18,"Secondary School","Middle-high",1,"Ryanggang",1,14,3,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"478",478,1984,35,31,"Secondary School","Middle-high",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"479",479,1971,48,35,"Secondary School","Middle",1,"North Hamgyong",1,7,2,1,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"480",480,1998,21,14,"<=Elementary","Middle-low",1,"North Hamgyong",1,7,2,2,2,4,2,2,2,4,2,2,2,2,2019,1.397260274
+"481",481,1960,59,38,"Technical Training","Low",1,"North Hamgyong",1,11,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.333748443
+"482",482,1974,45,36,"Technical Training","Middle-low",0,"North Hamgyong",0,9,2,2,2,3,3,3,2,2,2,2,2,2,2019,3
+"483",483,1976,43,31,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"484",484,1971,48,27,"Secondary School","Low",1,"North Hamgyong",1,14,3,4,4,4,4,4,3,4,3,2,3,3,2019,1.437181996
+"485",485,1964,55,30,"Secondary School","Low",0,"North Hamgyong",0,14,4,3,1,2,NA,NA,2,2,2,1,2,2,2019,3
+"486",486,1974,45,40,"University+","Middle-low",0,"North Hamgyong",0,5,2,2,2,2,3,4,2,3,2,2,2,2,2019,3
+"487",487,1979,40,29,"Secondary School","Middle-high",1,"Ryanggang",1,11,2,2,2,2,3,4,2,2,2,2,2,2,2019,3
+"488",488,1985,34,30,"Secondary School","Middle",1,"Ryanggang",1,3,2,2,2,2,3,4,2,2,2,2,2,2,2019,3
+"489",489,1983,36,18,"Secondary School","Low",1,"North Hamgyong",1,1,2,1,2,1,4,1,2,1,2,2,2,1,2019,1.437181996
+"490",490,1972,47,35,"Technical Training","Low",0,"South Hamgyong",0,12,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"491",491,NA,NA,NA,"Secondary School","Middle",1,"Ryanggang",1,NA,3,4,4,4,3,4,1,4,1,2,1,1,2019,3
+"492",492,NA,NA,NA,"Technical Training","Middle-high",NA,"North Hamgyong",NA,4,2,4,2,2,2,3,2,4,4,2,4,2,2019,NA
+"493",493,1989,30,26,"Secondary School","Middle",1,"North Hamgyong",1,3,3,2,2,2,3,4,1,1,2,2,2,2,2019,1.437181996
+"494",494,1990,29,23,"Technical Training","Middle-high",1,"Ryanggang",1,3,2,2,2,1,1,1,2,2,2,2,2,2,2019,3
+"495",495,1971,48,38,"Secondary School","Middle",1,"North Hamgyong",1,10,3,2,2,2,2,2,2,4,3,2,2,2,2019,1.437181996
+"496",496,1979,40,27,"Secondary School","Low",1,"North Hamgyong",1,7,2,NA,4,NA,NA,NA,2,NA,2,3,2,2,2019,1.437181996
+"497",497,1978,41,23,"Secondary School","Low",1,"North Hamgyong",1,9,2,2,2,4,3,NA,2,2,2,2,2,2,2019,1.437181996
+"498",498,1975,44,31,"Technical Training","Middle-low",1,"North Hamgyong",1,6,NA,NA,NA,NA,NA,NA,NA,4,NA,4,4,4,2019,1.333748443
+"499",499,2000,19,9,"<=Elementary","Middle",1,"North Hamgyong",1,10,1,1,1,1,1,1,1,1,1,1,1,1,2019,1.397260274
+"500",500,1999,20,10,"<=Elementary","Middle",1,"North Hamgyong",1,10,2,2,3,3,2,2,2,4,2,2,2,2,2019,1.397260274
+"501",501,1975,44,24,"Secondary School","Middle-low",1,"North Hamgyong",1,5,3,2,2,2,4,4,4,3,4,3,3,3,2019,1.437181996
+"502",502,1975,44,29,"Technical Training","Low",1,"North Hamgyong",1,1,2,1,3,3,1,3,2,2,2,3,2,3,2019,1.333748443
+"503",503,1950,69,NA,"Technical Training","Middle-low",1,"South Hamgyong",1,NA,2,2,2,2,2,2,2,2,2,1,1,1,2019,1.333748443
+"504",504,1959,60,52,"University+","Middle",1,"South Hamgyong",1,8,3,3,4,NA,NA,NA,2,NA,3,1,3,3,2019,1.333748443
+"505",505,1976,43,36,"Secondary School","Middle",0,"North Hamgyong",0,7,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"506",506,1994,25,22,"Secondary School","Middle-low",0,"North Hamgyong",0,3,2,2,2,2,2,4,2,2,2,2,2,2,2019,3
+"507",507,1982,37,26,"University+","Middle-high",1,"Ryanggang",1,2,4,2,4,4,4,4,2,3,NA,4,2,2,2019,3
+"508",508,1969,50,29,"Secondary School","Low",1,"Gangwon",1,5,3,4,2,4,NA,NA,2,3,2,2,2,1,2019,2.874363992
+"509",509,1968,51,30,"Technical Training","Middle",1,"Pyongyang",1,17,2,3,2,2,4,4,2,3,4,2,3,2,2019,0.666874222
+"510",510,1981,38,20,"Secondary School","Low",1,"North Hamgyong",1,13,3,2,1,2,3,4,2,4,3,2,3,2,2019,1.437181996
+"511",511,1969,50,34,"Technical Training","Middle-low",1,"North Hamgyong",1,13,4,4,NA,3,3,4,2,2,2,2,1,1,2019,1.333748443
+"512",512,1982,37,24,"Technical Training","Middle",1,"North Hwanghae",1,12,3,4,3,3,3,4,3,4,3,3,3,3,2019,2.000622665
+"513",513,1997,22,20,"Technical Training",NA,1,"Ryanggang",1,2,2,2,2,3,3,4,2,2,2,2,2,2,2019,3
+"514",514,1977,42,24,"Secondary School","Low",1,"North Hamgyong",1,13,2,3,2,2,4,3,2,3,2,2,2,2,2019,1.437181996
+"515",515,1942,77,70,"<=Elementary","Low",1,"Ryanggang",1,7,2,3,2,2,3,3,3,3,2,2,2,2,2019,3
+"516",516,1979,40,24,"Secondary School","Low",1,"North Hamgyong",1,11,3,4,2,4,4,3,2,4,3,2,4,2,2019,1.437181996
+"517",517,1976,43,30,"Secondary School","Middle",0,"North Hamgyong",0,11,2,2,2,3,3,3,2,3,2,3,2,2,2019,3
+"518",518,1964,55,40,"Technical Training","Low",0,"North Hamgyong",0,15,3,3,3,3,3,4,3,3,3,3,3,3,2019,3
+"519",519,1989,30,16,"Secondary School","Middle-high",0," South Pyongan",0,13,2,4,3,4,4,3,3,3,3,2,2,2,2019,1.866666667
+"520",520,1971,48,27,"Secondary School","Low",1,"North Hamgyong",1,9,3,3,3,2,2,2,1,4,4,1,2,2,2019,1.437181996
+"521",521,1982,37,28,"Secondary School","Low",1,"Ryanggang",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"522",522,1970,49,34,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,4,4,2,2,3,3,2,2,2,2019,1.437181996
+"523",523,1970,49,41,"Secondary School","Low",1,"North Hamgyong",1,2,2,2,2,4,2,2,3,3,3,2,2,2,2019,1.437181996
+"524",524,1972,47,35,"Secondary School","Middle-low",1,"North Hamgyong",1,2,3,3,3,3,3,4,3,4,2,3,2,4,2019,1.437181996
+"525",525,1977,42,26,"Secondary School","Low",1,"South Hwanghae",1,2,3,3,3,3,3,3,3,3,3,4,3,3,2019,2.155772994
+"526",526,1970,49,43,"Technical Training","Middle-high",1,"Gangwon",1,3,2,2,2,2,2,2,2,2,2,2,2,2,2019,2.667496887
+"527",527,1963,56,53,"Secondary School","Middle-low",0,"Ryanggang",0,3,1,1,1,1,1,1,1,1,1,1,1,1,2019,3
+"528",528,1980,39,30,"Technical Training","Middle-low",0,"Ryanggang",0,6,1,NA,3,4,3,4,1,2,1,1,3,NA,2019,3
+"529",529,1972,47,39,"Secondary School","Middle-low",1,"South Hwanghae",1,2,1,1,NA,NA,NA,NA,2,2,2,NA,1,NA,2019,2.155772994
+"530",530,1962,57,56,"Secondary School","Middle",1,"Ryanggang",1,1,1,1,1,1,1,3,1,1,1,1,1,1,2019,3
+"531",531,1977,42,20,"Secondary School","Middle-high",1,"Ryanggang",1,14,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"532",532,1983,36,29,"Secondary School","Low",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"533",533,1974,45,29,"Secondary School","Low",1,"South Hamgyong",1,15,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"534",534,1983,36,26,"Secondary School","Low",1,"Ryanggang",1,3,1,1,1,1,1,1,1,1,1,1,1,1,2019,3
+"535",535,1972,47,35,"Technical Training","Low",1,"Ryanggang",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"536",536,1996,23,17,"University+","Middle-high",1,"Ryanggang",1,5,4,3,3,3,3,3,3,4,3,3,3,3,2019,3
+"537",537,1988,31,27,"Secondary School","Middle",1,"North Hamgyong",1,3,3,3,2,3,3,3,3,3,3,3,3,3,2019,1.437181996
+"538",538,1990,29,26,"Secondary School","Middle",1,"North Hamgyong",1,3,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"539",539,1975,44,29,"Technical Training","Low",1,"North Hamgyong",1,1,3,2,3,3,4,4,2,3,2,3,2,2,2019,1.333748443
+"540",540,1980,39,26,"Secondary School","Middle-low",1,"Ryanggang",1,1,2,3,2,3,3,4,3,4,1,2,4,2,2019,3
+"541",541,1983,36,24,"Secondary School","Middle-low",1,"Ryanggang",1,1,2,2,2,2,2,3,3,3,3,2,3,2,2019,3
+"542",542,1963,56,36,NA,"Middle-high",NA,"North Hamgyong",NA,15,4,3,3,NA,4,NA,4,NA,4,3,4,NA,2019,NA
+"543",543,1984,35,18,"Secondary School","Middle-low",1,"South Hamgyong",1,14,2,1,2,2,3,3,2,3,2,2,2,2,2019,1.437181996
+"544",544,1974,45,37,"Secondary School","Low",1,"Ryanggang",1,7,3,2,2,4,3,3,2,4,2,2,2,2,2019,3
+"545",545,1971,48,28,"Secondary School","Middle",0,"North Hamgyong",0,17,2,3,2,3,3,3,2,4,2,4,3,2,2019,3
+"546",546,1975,44,33,"Secondary School","Middle-high",1,"South Hwanghae",1,11,2,2,2,2,3,2,2,2,2,2,2,2,2019,2.155772994
+"547",547,1979,40,25,"Secondary School","Low",1,"North Hamgyong",1,11,2,3,3,3,3,4,2,4,2,2,3,2,2019,1.437181996
+"548",548,1990,29,15,"<=Elementary","Middle",1,"North Hamgyong",1,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019,1.397260274
+"549",549,1983,36,23,"Secondary School","Middle-high",1,"North Hamgyong",1,13,4,4,3,NA,4,4,NA,NA,NA,4,NA,4,2019,1.437181996
+"550",550,1983,36,18,"Secondary School","Low",0,"North Hamgyong",0,15,2,3,2,2,3,3,2,2,2,2,2,2,2019,3
+"551",551,1943,76,65,"<=Elementary","Middle",1,"South Hwanghae",1,11,2,2,2,3,4,4,2,NA,2,2,NA,2,2019,2.095890411
+"552",552,1989,30,22,"Secondary School","Middle",1,"Ryanggang",1,5,NA,NA,2,1,1,NA,NA,NA,NA,1,NA,1,2019,3
+"553",553,1970,49,26,"University+","High",1,"North Hamgyong",1,11,1,1,3,3,3,4,3,4,3,4,1,4,2019,1.333748443
+"554",554,1991,28,25,"<=Elementary","Low",0,"South Hwanghae",0,2,4,4,4,4,4,4,4,4,4,4,4,4,2019,3
+"555",555,1971,48,33,"Secondary School","Low",1,"North Hamgyong",1,15,4,3,3,4,4,NA,4,NA,NA,3,4,4,2019,1.437181996
+"556",556,1990,29,25,"Secondary School","Middle-low",1,"Ryanggang",1,3,3,4,2,4,2,3,3,NA,3,1,1,1,2019,3
+"557",557,1991,28,21,"Secondary School","Middle",1,"Ryanggang",1,2,2,2,2,3,2,2,2,NA,3,2,2,2,2019,3
+"558",558,1980,39,31,"Secondary School","Middle-high",1,"Ryanggang",1,8,4,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"559",559,1952,67,59,"Secondary School","Middle-low",0,"Jagang",0,8,2,2,2,2,2,2,2,2,2,2,2,NA,2019,3
+"560",560,1962,57,48,"Technical Training","Middle",1,"North Hamgyong",1,8,2,1,2,1,1,3,2,NA,2,1,1,1,2019,1.333748443
+"561",561,1966,53,46,"Secondary School","Middle-high",1,"Ryanggang",1,6,3,2,2,3,3,4,2,3,3,3,4,2,2019,3
+"562",562,1959,60,53,"Secondary School","Middle-high",1,"Ryanggang",1,6,3,3,3,2,2,4,1,3,2,2,2,2,2019,3
+"563",563,1988,31,25,"Technical Training","Middle",1,"Ryanggang",1,5,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"564",564,1985,34,28,"Secondary School","Middle-high",0,"Ryanggang",0,6,2,2,2,3,3,4,2,2,2,2,2,2,2019,3
+"565",565,1970,49,34,"University+","High",1,"Ryanggang",1,15,3,3,4,4,4,2,2,2,2,2,2,2,2019,3
+"566",566,1985,34,24,"Secondary School","Low",0,"North Pyongan",0,10,3,3,NA,3,4,4,2,2,2,2,2,2,2019,1.866666667
+"567",567,1970,49,28,"Secondary School","Middle",1,"North Hamgyong",1,15,2,2,2,3,3,4,2,4,3,2,2,2,2019,1.437181996
+"568",568,1967,52,31,"Secondary School","Low",1,"North Hamgyong",1,5,3,2,3,2,2,4,4,4,3,2,2,2,2019,1.437181996
+"569",569,1966,53,44,"Secondary School","Low",1,"North Hamgyong",1,7,3,2,2,NA,NA,NA,2,4,2,2,2,2,2019,1.437181996
+"570",570,1992,27,12,"University+","High",1,"Ryanggang",1,15,3,3,3,4,3,4,2,2,2,2,2,2,2019,3
+"571",571,1966,53,34,"Secondary School","Middle-low",0,"North Hamgyong",0,19,3,3,4,4,4,2,2,2,2,2,2,2,2019,3
+"572",572,1967,52,35,"University+","High",0,"Ryanggang",0,17,3,3,4,NA,4,4,2,2,2,2,2,2,2019,3
+"573",573,1997,22,18,"Secondary School","Middle",0,"Ryanggang",0,4,2,2,2,4,3,3,2,2,2,2,2,2,2019,3
+"574",574,1974,45,41,"Technical Training","Middle",0,"Ryanggang",0,4,2,4,2,4,3,4,2,4,2,2,2,2,2019,3
+"575",575,1975,44,36,"Secondary School","Middle",1,"North Hamgyong",1,8,2,2,2,2,4,3,2,2,2,2,2,2,2019,1.437181996
+"576",576,1964,55,48,"Secondary School","Middle-low",1,"North Hamgyong",1,7,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"577",577,1979,40,25,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"578",578,1972,47,20,"Secondary School","Middle",1,"North Hamgyong",1,11,2,3,3,NA,2,2,2,2,2,2,2,2,2019,1.437181996
+"579",579,1967,52,44,"Technical Training","Middle-high",0,"North Hamgyong",0,8,2,2,3,3,2,3,2,2,2,2,3,2,2019,3
+"580",580,1989,30,27,"Secondary School","Middle",1,"Ryanggang",1,2,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"581",581,1975,44,23,"Secondary School","Low",1,"North Hamgyong",1,16,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"582",582,1973,46,37,"Secondary School","Middle-low",1,"North Hamgyong",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"583",583,1956,63,37,"Secondary School","Middle",0,"South Hamgyong",0,13,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"584",584,1981,38,31,"Secondary School","Middle",1,"North Hwanghae",1,5,2,2,2,2,2,2,2,2,2,2,2,2,2019,2.155772994
+"585",585,1966,53,41,"Secondary School","Middle",1,"North Hamgyong",1,11,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"586",586,1991,28,20,"Secondary School","Middle",1,"Ryanggang",1,3,3,2,3,3,3,4,2,2,3,2,3,2,2019,3
+"587",587,1965,54,33,"Secondary School","Low",1,"Gangwon",1,20,2,2,1,2,2,2,2,2,2,2,2,2,2019,2.874363992
+"588",588,1968,51,43,"Secondary School","Low",1,"Gangwon",1,NA,2,2,3,2,2,3,3,4,2,1,1,NA,2019,2.874363992
+"589",589,1995,24,16,"Secondary School","Low",0,"Ryanggang",0,8,1,1,NA,1,1,1,1,1,1,1,1,1,2019,3
+"590",590,1968,51,43,"Technical Training","Middle-high",1,"North Hamgyong",1,8,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.333748443
+"591",591,1971,48,27,"Secondary School","Low",1,"Gangwon",1,14,2,2,2,2,3,2,2,2,2,2,2,2,2019,2.874363992
+"592",592,NA,NA,NA,"<=Elementary","Middle",0,"North Hamgyong",0,8,3,2,2,3,2,3,3,3,2,3,3,3,2019,3
+"593",593,1968,51,30,"Secondary School","Middle-high",1,"North Hamgyong",1,9,1,1,1,1,1,1,1,1,1,1,1,1,2019,1.437181996
+"594",594,1967,52,41,"Secondary School","Middle",1,"Ryanggang",1,2,2,2,2,2,3,3,2,2,2,2,2,2,2019,3
+"595",595,1974,45,25,"Secondary School","Low",1,"North Hamgyong",1,4,2,1,1,3,3,3,1,4,3,3,3,1,2019,1.437181996
+"596",596,NA,NA,NA,"Secondary School","Middle-high",1,"Ryanggang",1,2,3,3,3,4,3,4,3,3,NA,4,4,3,2019,3
+"597",597,1988,31,22,"Secondary School","Middle",1,"South Hamgyong",1,4,1,1,1,2,1,1,1,1,1,1,1,1,2019,1.437181996
+"598",598,1994,25,18,"Secondary School","Middle-high",0,"Ryanggang",0,6,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"599",599,1971,48,28,"<=Elementary","Low",1,"South Hamgyong",1,8,3,3,3,3,3,3,3,3,3,3,3,3,2019,1.397260274
+"600",600,1967,52,32,"Secondary School","Low",1,"North Hamgyong",1,4,2,2,2,2,2,3,2,3,2,2,2,2,2019,1.437181996
+"601",601,1983,36,21,"Secondary School","Low",1,"North Hamgyong",1,5,3,3,3,4,4,4,4,4,4,3,3,3,2019,1.437181996
+"602",602,1970,49,32,"Secondary School","Low",1,"North Hamgyong",1,9,2,2,2,4,3,4,1,1,1,1,1,1,2019,1.437181996
+"603",603,1969,50,39,"Secondary School","Middle-low",1,"North Hamgyong",1,11,3,2,1,4,3,4,2,NA,1,1,1,1,2019,1.437181996
+"604",604,1998,21,13,"Secondary School","Middle-high",0,"North Hamgyong",0,8,3,3,3,2,2,2,2,2,2,2,2,2,2019,3
+"605",605,1985,34,29,"Secondary School","Middle",1,"North Hamgyong",1,5,3,3,3,4,3,3,3,3,3,3,3,3,2019,1.437181996
+"606",606,1974,45,40,"Secondary School","Low",1,"Ryanggang",1,4,4,4,3,NA,4,4,3,NA,3,3,3,3,2019,3
+"607",607,1987,32,16,"Secondary School","Middle",0,"North Hamgyong",0,3,2,2,2,2,2,NA,2,2,2,2,2,NA,2019,3
+"608",608,1965,54,46,"Technical Training",NA,0,"Ryanggang",0,7,2,2,2,2,4,2,2,2,2,2,2,2,2019,3
+"609",609,1993,26,16,"Secondary School","High",1,"North Hamgyong",1,7,3,1,3,3,3,3,3,3,3,2,2,2,2019,1.437181996
+"610",610,1965,54,44,"Secondary School","High",0,"North Hamgyong",0,9,3,2,3,3,3,3,2,2,2,2,2,2,2019,3
+"611",611,1973,46,39,"Secondary School","Middle-low",1,"North Hamgyong",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"612",612,1966,53,47,"Secondary School","Middle-low",1,"Ryanggang",1,6,4,4,4,NA,4,4,3,NA,4,4,3,3,2019,3
+"613",613,1983,36,15,"Secondary School","Middle",1,"North Hamgyong",1,7,2,2,2,2,2,4,2,4,2,2,2,2,2019,1.437181996
+"614",614,1987,32,18,"Secondary School","Middle",1,"North Hamgyong",1,7,2,2,2,2,2,4,2,4,4,4,2,4,2019,1.437181996
+"615",615,1980,39,26,"Technical Training","Low",1,"North Hamgyong",1,7,2,4,2,2,4,4,2,NA,2,2,2,2,2019,1.333748443
+"616",616,1971,48,37,"University+","Middle-low",1,"South Hamgyong",1,4,NA,3,3,NA,3,3,3,NA,NA,3,3,3,2019,1.333748443
+"617",617,1964,55,49,"Secondary School","Middle-high",0,"North Hamgyong",0,6,4,2,2,2,2,4,2,4,2,2,2,2,2019,3
+"618",618,1972,47,24,"Technical Training","Low",1,"North Hamgyong",1,6,2,2,2,3,3,4,2,3,2,2,2,2,2019,1.333748443
+"619",619,1963,56,35,"Secondary School","Low",1,"North Hamgyong",1,12,3,2,2,2,2,4,2,2,2,2,2,2,2019,1.437181996
+"620",620,1989,30,29,"Secondary School","Middle",0,"Ryanggang",0,1,2,3,3,3,4,4,3,4,3,2,3,2,2019,3
+"621",621,1971,48,36,"Secondary School","Low",1,"North Hamgyong",1,4,2,3,2,3,3,4,2,3,2,2,2,2,2019,1.437181996
+"622",622,1991,28,24,"Secondary School","Middle",1,"Ryanggang",1,3,3,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"623",623,1990,29,20,"Secondary School","High",NA,"Ryanggang",NA,9,3,1,NA,3,3,3,3,3,3,3,3,3,2019,NA
+"624",624,1982,37,33,"University+","High",1,"Ryanggang",1,4,3,3,4,3,3,3,3,2,3,2,2,2,2019,3
+"625",625,1977,42,31,"Secondary School","Middle-high",1,"Ryanggang",1,6,3,3,4,4,4,2,2,2,2,2,2,2,2019,3
+"626",626,1974,45,23,"Secondary School","Middle-low",1,"North Hamgyong",1,15,3,1,1,1,1,1,1,3,1,2,2,2,2019,1.437181996
+"627",627,1991,28,20,"Secondary School","Middle",1,"Ryanggang",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"628",628,1990,29,23,"Secondary School","Low",1,"Gangwon",1,1,2,1,1,1,1,2,1,1,1,1,1,2,2019,2.874363992
+"629",629,1997,22,17,"Secondary School","Middle",1,"Ryanggang",1,1,2,2,2,2,2,4,2,2,2,2,2,2,2019,3
+"630",630,1985,34,22,"Secondary School","Middle-low",1,"North Hamgyong",1,1,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"631",631,1972,47,36,"Secondary School","Middle-low",NA,"North Hamgyong",NA,1,2,2,1,1,1,1,1,1,1,1,1,1,2019,NA
+"632",632,1994,25,19,"Secondary School","Middle",1,"Ryanggang",1,1,2,1,1,1,2,2,2,2,2,2,2,2,2019,3
+"633",633,1980,39,18,"Secondary School","Low",1,"Ryanggang",1,1,2,3,2,3,3,4,2,3,2,2,2,2,2019,3
+"634",634,1948,71,64,"Secondary School","Low",1,"North Hamgyong",1,7,2,3,2,3,3,4,2,3,2,2,2,2,2019,1.437181996
+"635",635,1964,55,33,"Secondary School","Low",1,"North Hamgyong",1,5,3,3,2,3,3,4,3,3,4,3,3,3,2019,1.437181996
+"636",636,1974,45,37,"Secondary School","Middle",0,"North Hamgyong",0,8,2,2,2,2,2,2,2,3,2,2,2,2,2019,3
+"637",637,1961,58,37,"Secondary School","Low",1,"North Hamgyong",1,8,3,3,3,3,3,3,3,2,2,2,2,2,2019,1.437181996
+"638",638,1963,56,44,"Secondary School","Low",1,"South Hamgyong",1,6,2,2,2,2,2,2,2,2,3,2,2,2,2019,1.437181996
+"639",639,1975,44,29,"Secondary School","Middle-low",1,"North Hamgyong",1,5,3,3,3,3,3,3,3,3,3,3,3,3,2019,1.437181996
+"640",640,1984,35,30,"University+","High",1,"Ryanggang",1,4,3,3,4,3,3,3,3,2,3,2,2,2,2019,3
+"641",641,1995,24,19,"Secondary School","Middle-high",0,"Ryanggang",0,5,3,4,1,1,1,1,1,1,1,1,1,1,2019,3
+"642",642,1964,55,41,"Secondary School","Low",1,"Ryanggang",1,4,2,2,2,2,2,4,2,3,2,2,2,2,2019,3
+"643",643,1975,44,20,"Secondary School","Low",1,"South Hamgyong",1,11,3,3,4,3,3,3,2,NA,3,2,2,2,2019,1.437181996
+"644",644,1970,49,39,"Secondary School","High",0,"Ryanggang",0,10,1,1,1,1,1,1,1,1,1,1,1,1,2019,3
+"645",645,1975,44,34,"University+","High",0,"Ryanggang",0,10,3,3,4,1,4,4,2,2,2,2,2,2,2019,3
+"646",646,1975,44,34,"University+","High",0,NA,0,10,3,3,3,3,4,4,2,2,2,2,2,2,2019,NA
+"647",647,1975,44,21,"Secondary School","Low",1,"South Hamgyong",1,22,3,3,4,3,3,3,3,3,3,3,3,3,2019,1.437181996
+"648",648,1989,30,20,"Secondary School","Middle-low",0,"North Hamgyong",0,10,3,3,4,4,2,2,2,2,2,2,2,2,2019,3
+"649",649,1980,39,29,"Secondary School","Low",0,"Ryanggang",0,10,3,3,4,4,4,2,2,2,2,2,2,2,2019,3
+"650",650,1990,29,19,"Secondary School","High",0,"Ryanggang",0,10,3,3,4,4,2,2,2,2,2,2,2,2,2019,3
+"651",651,1991,28,24,"Secondary School","Middle",0,"Ryanggang",0,3,4,4,3,4,3,4,4,1,4,2,4,2,2019,3
+"652",652,1978,41,33,"Technical Training","Middle-high",1,"Ryanggang",1,8,3,3,4,3,3,3,3,3,3,2,2,2,2019,3
+"653",653,1990,29,17,"<=Elementary","Low",1,"Ryanggang",1,6,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"654",654,1956,63,57,"University+","Middle",0,"Ryanggang",0,6,2,2,2,2,2,2,2,2,2,NA,2,2,2019,3
+"655",655,1996,23,11,"University+","Middle-high",1,"South Hwanghae",1,12,2,2,2,2,2,2,2,2,2,2,2,2,2019,2.000622665
+"656",656,1982,37,25,"Secondary School","Low",1,"Gangwon",1,9,2,3,2,3,1,3,1,3,1,2,1,1,2019,2.874363992
+"657",657,1969,50,29,"Secondary School","Low",1,"Ryanggang",1,4,4,4,2,4,4,4,2,2,4,4,2,2,2019,3
+"658",658,1980,39,18,"Secondary School","Low",1,"South Hamgyong",1,14,2,2,2,2,2,2,3,3,2,3,2,3,2019,1.437181996
+"659",659,1957,62,47,"Secondary School","Low",1,"North Hamgyong",1,8,2,2,2,2,4,4,2,2,2,2,2,2,2019,1.437181996
+"660",660,1949,70,61,"Secondary School","Middle",1,"Ryanggang",1,8,2,2,2,2,3,3,3,3,3,2,2,2,2019,3
+"661",661,1969,50,35,"Secondary School","Middle",1,"North Hamgyong",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"662",662,1981,38,22,"Secondary School","Middle",1,"North Hamgyong",1,9,3,2,1,3,3,2,3,2,2,2,2,3,2019,1.437181996
+"663",663,2000,19,17,"Secondary School","Middle-high",1,"Ryanggang",1,2,4,4,3,4,NA,4,3,4,NA,4,4,3,2019,3
+"664",664,1948,71,59,"Secondary School","Low",1,"North Hamgyong",1,11,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"665",665,1968,51,29,"Technical Training","Low",1,"North Hamgyong",1,5,3,3,2,3,3,3,3,3,3,2,2,2,2019,1.333748443
+"666",666,1979,40,30,"Secondary School","Middle-high",1,"Ryanggang",1,10,3,3,3,4,2,2,2,2,2,2,2,2,2019,3
+"667",667,1968,51,41,"Technical Training","Low",0," South Pyongan",0,10,2,NA,NA,NA,NA,NA,1,1,1,1,1,1,2019,1.732323232
+"668",668,1974,45,23,"Secondary School","Low",1,"North Hamgyong",1,9,4,3,3,4,4,4,4,4,4,4,3,3,2019,1.437181996
+"669",669,1984,35,23,"Secondary School","Middle-low",1,"North Hamgyong",1,4,3,1,1,1,1,1,1,1,1,1,1,1,2019,1.437181996
+"670",670,1976,43,22,"University+","Middle-high",1,"North Hamgyong",1,14,3,3,3,3,3,3,3,3,3,3,3,3,2019,1.333748443
+"671",671,1978,41,31,"Technical Training","Middle-low",1,"Ryanggang",1,10,4,3,2,2,2,2,2,3,2,2,2,2,2019,3
+"672",672,1993,26,17,"Technical Training","Middle-low",0,"Ryanggang",0,2,2,2,2,2,3,3,2,2,2,2,2,2,2019,3
+"673",673,1984,35,26,"Secondary School","Middle",1,"Ryanggang",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"674",674,1990,29,23,"Technical Training","Middle-high",1,"Ryanggang",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"675",675,1972,47,29,"Secondary School","Middle-high",1,"South Hamgyong",1,4,3,3,3,NA,NA,4,NA,4,4,3,3,3,2019,1.437181996
+"676",676,1938,81,70,"Secondary School","Low",1,"North Hamgyong",1,10,2,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"677",677,1980,39,18,"Secondary School","Low",1,"Ryanggang",1,1,2,2,2,2,2,4,2,3,2,2,2,2,2019,3
+"678",678,1948,71,50,"Secondary School","Low",1,"Ryanggang",1,4,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"679",679,1971,48,40,"Secondary School","Middle",0,"North Hamgyong",0,8,4,4,NA,NA,NA,NA,3,NA,4,3,4,4,2019,3
+"680",680,1971,48,33,"Secondary School","Low",1,"North Hamgyong",1,15,4,2,2,4,NA,4,2,4,4,2,4,4,2019,1.437181996
+"681",681,1974,45,23,"Secondary School","Low",1,"North Hamgyong",1,15,3,2,2,2,2,2,2,2,2,2,2,2,2019,1.437181996
+"682",682,1995,24,20,"Secondary School","Middle-low",1,"Ryanggang",1,1,3,3,3,3,3,3,3,3,3,3,3,3,2019,3
+"683",683,1957,62,53,"University+","Low",1,"Ryanggang",1,9,2,2,2,2,2,2,2,2,2,2,2,2,2019,3
+"684",684,1972,47,30,"Secondary School","Middle-low",1,"Ryanggang",1,2,2,2,2,2,2,2,2,3,2,2,2,2,2019,3
+"685",685,1972,47,28,"Secondary School","Low",0,"North Hamgyong",0,3,2,3,2,2,2,2,2,2,2,2,2,2,2019,3
+"686",686,1984,35,25,"Secondary School","Low",1,"Ryanggang",1,9,3,2,2,3,3,3,3,3,3,3,3,3,2019,3
+"687",687,1987,32,21,"Secondary School","Middle-low",1,"North Hamgyong",1,8,3,4,2,2,3,3,2,3,2,3,3,3,2019,1.437181996
+"688",688,1980,39,28,"University+","Middle",1,"North Hamgyong",1,11,2,2,2,3,4,NA,2,2,2,2,3,2,2019,1.333748443
+"689",689,1968,51,29,"Secondary School","Low",1,"North Pyongan",1,17,2,3,2,2,3,2,2,3,2,2,2,2,2019,0.718590998
+"690",690,1975,44,31,"Technical Training","Middle-low",1,"North Hamgyong",1,12,2,2,2,2,4,4,2,2,2,2,2,2,2019,1.333748443
+"691",691,1970,49,47,"Secondary School","Middle-high",1,"Ryanggang",1,2,3,2,2,2,4,4,3,2,3,2,4,2,2019,3
+"692",692,1960,59,53,"Technical Training","Middle-low",1,"Gangwon",1,6,3,2,3,3,3,3,3,3,1,3,3,3,2019,2.667496887
+"693",693,1977,42,31,"Secondary School","Middle-low",1,"North Hamgyong",1,10,3,3,NA,2,2,1,3,2,3,3,3,3,2019,1.437181996
+"694",694,1986,33,23,"Technical Training","Middle-low",0,"Pyongyang",0,10,3,3,2,2,3,3,2,4,3,2,3,2,2019,1.732323232
+"695",695,1969,50,46,"Secondary School","High",1,"Ryanggang",1,2,4,3,3,3,3,NA,3,4,3,3,3,3,2019,3
+"696",696,1969,50,46,"University+","Middle-high",1,"Ryanggang",1,3,2,3,2,4,4,4,2,4,2,3,3,3,2019,3
+"697",697,1972,47,32,"Secondary School","Low",1,"North Hamgyong",1,3,3,3,2,2,3,4,3,3,3,2,2,2,2019,1.437181996
+"698",698,1966,53,49,"Secondary School","Middle-high",0,"Ryanggang",0,3,3,2,2,2,2,4,2,3,2,2,2,2,2019,3
+"699",699,1990,29,20,"Secondary School","High",0,"North Hamgyong",0,8,2,2,2,1,4,4,3,1,1,2,2,2,2019,3
+"700",700,1986,33,29,"Secondary School","Middle-high",0,"Ryanggang",0,4,2,2,2,4,4,3,2,NA,3,3,2,2,2019,3
+"701",701,1987,32,29,"Secondary School","Middle",0,"Ryanggang",0,3,2,2,2,4,2,2,2,2,2,2,2,2,2019,3
+"702",702,1988,31,28,"Secondary School","Middle-low",1,"Ryanggang",1,3,2,3,3,4,3,3,3,NA,3,NA,3,3,2019,3
